@@ -26,23 +26,32 @@ The entire steering committee is generally expected to attend every meeting, but
 
 ### Initial Charter
 
-This document will define how the committee is to manage the project until it has transitioned to an elected steering body, as well as what governance must be in place. 
+This document will define how the committee is to manage the project until it has transitioned to an elected steering committee, as well as what governance must be in place. 
 
 A charter should cover all of the following topics:
 * Scope of rights and responsibilities explicitly held by the steering committee
 * Committee structure that meets the requirements above
 * Committee decision-making process, including for changes to the charter
+* How are meetings conducted
+   * Frequency and duration
+   * How is meeting information shared
+   * Are meetings recorded
+   * How is work tracked (eg, steering project board)
+   * Member note taker, or a neutral facilitator role that exists outside of the committee
 * Election process, including:
-  * Who is eligible to run as a candidate
-  * How candidates are nominated
-  * Special elections in the case someone resigns or is impeached
-  * Voter registration and requirements
-  * Committee company representation quotas
- * How are meetings conducted
-    * Frequency and duration
-    * How is meeting information shared
-    * Are meetings recorded
-    * How is work tracked (eg, steering project board)
-    * Member note taker, or a neutral facilitator role that exists outside of the committee
-  
+ * Who is eligible to run as a candidate
+ * How candidates are nominated
+ * Special elections in the case someone resigns or is impeached
+ * Voter registration and requirements
+ * Committee company representation quotas
  
+ ### Transition Process
+ 
+ This document will define how the bootstrap steering committe will transition to an elected steering committee.
+ 
+ The transition process must:
+ * Organize, execute, and validate an election for replacing bootstrap members 
+ * Define the term lengths for elected steering committee members
+ * Organize the transition to an elected steering committee so that not all members change out at once
+  * Possibly stagger the terms of the bootstrap committee members (ie, the first election would be for 3 committee members, the next election would be held to replace the remaining 2 original bootstrap committee members)
+ * Provide documentation to enable the established practices of the committee to continue 
