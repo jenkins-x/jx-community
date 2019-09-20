@@ -39,11 +39,11 @@ A charter should cover all of the following topics:
    * How is work tracked (eg, steering project board)
    * Member note taker, or a neutral facilitator role that exists outside of the committee
 * Election process, including:
- * Who is eligible to run as a candidate
- * How candidates are nominated
- * Special elections in the case someone resigns or is impeached
- * Voter registration and requirements
- * Committee company representation quotas
+   * Who is eligible to run as a candidate
+   * How candidates are nominated
+   * Special elections in the case someone resigns or is impeached
+   * Voter registration and requirements
+   * Committee company representation quotas
  
  ### Transition Process
  
