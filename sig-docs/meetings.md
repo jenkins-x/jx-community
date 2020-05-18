@@ -32,7 +32,7 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
   - Left nav structure PR aiming to ship by end of week
   - Day of docs for Distribution team next week, will work inside new structure
   - GSoD: Interested candidate, has contacted us through jenkins-x-dev slack. Would be great to invite him to collaborate on Lighthouse docs work that is getting started now. Introduce John Ha to him in Kubernetes slack. 
-  - Admin: Are we OK with these being our meeting notes? Can we find a better time for this meeting? Or how should we handle keeping this SIG open and welcoming to individuals from China? Should we have an APAC time slot once a month?
+  - Admin: Are we OK with these being our meeting notes? Can we find a better time for this meeting? Or how should we handle keeping this SIG open and welcoming to individuals from China? Should we have an APAC time slot once a month? Issue has been discussed [here](https://github.com/jenkins-x/steering/issues/4) and [here](https://github.com/jenkins-x/jx-docs/issues/2675).
   - We should go through issues on docs repo and triage them. Label the issues, such as the audit work, issues with the docs site itself (404s, code snippets, etc), GSoD, etc
   - Search functionality on the docs site is off, and many search results are returning 404s, even when the material is in the docs. The search results are not linking or pathing to the correct place in the documentation.
   - Pop up on site is displaying  "Weekly updates from the Jenkins X community!" Do we send weekly updates to subscribers? Could we be more clear on what people are signing up for here? 
@@ -56,6 +56,7 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 #### Agenda and Notes
   - Action Item Review, All
       - [Apps Framework moved to main documentation](https://github.com/jenkins-x/jx-docs/pull/2800)
+      - [APAC friendly meeting time issue](https://github.com/jenkins-x/jx-community/issues/3), to discuss and find resolution
   - Do we have access to Algolia account? 
   - Search functionality on the docs site is off, and many search results are returning 404s, even when the material is in the docs. The search results are not linking or pathing to the correct place in the documentation.
   - \<addme\>
