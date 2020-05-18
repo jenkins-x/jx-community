@@ -6,6 +6,7 @@
 - Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 - [Agenda and Notes](#agenda-and-notes)
   - [2020-05-18 Meeting](#may-18-2020)
+  - [2020-05-25 Meeting](#may-25-2020)
   
 ## Logistics
 
@@ -39,13 +40,26 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
   - There are pages that have fallen into Community section that are a bit out of place: Security, Apps Framework. They should be moved out to main documentation section.
 
 
-
-
-
 #### Action Items
   - Re meeting times: Set up APAC a separate friendly meeting time and cadence
   - John Ha, Kara, Oscar: Triage and label issues
   - Ethan: Within Mailchimp itself fix the wording on popup on the site. Done!
   - John Ha to join dev slack channel and Kara to introduce to GSoD candidate.
+  - Kara to move Apps Framework to main documentation.
+  - Discuss search issue at next week's meeting.
+
+### May 25, 2020
+
+#### Participants
+  - \<addme\>
+
+#### Agenda and Notes
+  - Action Item Review, All
+  - Do we have access to Algolia account? 
+  - Search functionality on the docs site is off, and many search results are returning 404s, even when the material is in the docs. The search results are not linking or pathing to the correct place in the documentation.
+  - \<addme\>
+
+#### Action Items
+  - \<addme\>
 
 
