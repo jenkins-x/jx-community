@@ -22,6 +22,8 @@ Regular steering committee meetings will be held, at least once per month.
 
 The entire steering committee is generally expected to attend every meeting, but quorum is met with 3/5 attendance.
 
+[Meetings notes](https://docs.google.com/document/d/1ZuMQxm4mYJP1x2vhZI6CgCxiLWWw6N6Um1bErKP1seE/edit#).
+
 ## Projects
 
 ### Initial Charter
