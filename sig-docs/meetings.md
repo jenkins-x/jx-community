@@ -7,6 +7,7 @@
 - [Agenda and Notes](#agenda-and-notes)
   - [2020-05-18 Meeting](#may-18-2020)
   - [2020-05-25 Meeting](#may-25-2020)
+  - [2020-06-01 Meeting](#june-1-2020)
   
 ## Logistics
 
@@ -49,6 +50,12 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
   - Discuss search issue at next week's meeting.
 
 ### May 25, 2020
+ - Docs SiG meeting on 25 May cancelled due to public holidays in both US and Europe. 
+
+#### Action Items
+ - Enjoy the long weekend everyone! ☀️
+ 
+### June 1, 2020
 
 #### Participants
   - \<addme\>
