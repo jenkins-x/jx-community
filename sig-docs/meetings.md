@@ -62,8 +62,9 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 
 #### Agenda and Notes
   - Action Item Review, All
-      - [Apps Framework moved to main documentation](https://github.com/jenkins-x/jx-docs/pull/2800)
       - [APAC friendly meeting time issue](https://github.com/jenkins-x/jx-community/issues/3), to discuss and find resolution
+      - [Apps Framework moved to main documentation](https://github.com/jenkins-x/jx-docs/pull/2800)
+      - John Ha joined jenkins-x-dev slack and has been introduced to interested GSoD candidates 👍
   - Do we have access to Algolia account? 
   - Search functionality on the docs site is off, and many search results are returning 404s, even when the material is in the docs. The search results are not linking or pathing to the correct place in the documentation.
   - \<addme\>
