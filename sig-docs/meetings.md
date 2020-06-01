@@ -8,6 +8,7 @@
   - [2020-05-18 Meeting](#may-18-2020)
   - [2020-05-25 Meeting](#may-25-2020)
   - [2020-06-01 Meeting](#june-1-2020)
+  - [2020-06-08 Meeting](#june-8-2020)
   
 ## Logistics
 
@@ -58,7 +59,14 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 ### June 1, 2020
 
 #### Participants
-  - \<addme\>
+  - Ethan Jones
+  - Deane Smith
+  - Kara de la Marck
+  - Oscar Medina
+  - Ankit Mohapatra
+  - AJ
+  - Jacqueline Binya
+  - Nitin Agarwal
 
 #### Agenda and Notes
   - Action Item Review, All
@@ -67,9 +75,31 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
       - John Ha joined jenkins-x-dev slack and has been introduced to interested GSoD candidates 👍
   - Do we have access to Algolia account? 
   - Search functionality on the docs site is off, and many search results are returning 404s, even when the material is in the docs. The search results are not linking or pathing to the correct place in the documentation.
+  - Are we ready for a "Day of docs" from the CB engineering team? What priorities should they work on? Decided we'd focus on JX boot but also let the engineers pick and choose what they want to work on. "Day of docs" is good to go 🚀
+  - Discuss with GSoD applicants potential projects for them. Lighthouse is a good candidate and John can help.
+  - Lots of discussion of cloud providers, what we support, how we show platform and k8s version support in the docs. General agreement that we need to show what works on what platforms, what verions, etc. Make it clear what platforms have great support vs limited support and what doesn't work on some platforms.
+  - Creating a matrix of what features work on which platforms, could be an interesting GSoD proposal.
+  - An additional proposal could be on writing user stories as specific articles such as 'Running Jenkins X as efficiently or inexpensively as possible', ie, how to run Jenkins X with the minimum resources. We should think of other articles we would like in that vein, and altogether could make an interesting GSoD project.
+  - Consider how and when we address triaging the docs issues. We may want to dedicate a time during this SIG meeting when we address triage. Alternatively, or in addition, we could have a dedicated session to triage as we have a lot of issues to go through. Engineering may need to go through a number of issues and see which are out of date.
+  
+
+#### Action Items
+  - Need to add docs PR to the PR template for the main JX repo (@Deane)
+  - Ethan to set up hosting and Kara will update link on calendar.
+  - Ethan and Deane to discuss cloude credits for docs contributors
+  - Keep brainstorming with potential applicants different proposals. For example, we should think of  articles re using Jenkins X: with minimal resources, etc.
+
+### June 8, 2020
+
+#### Participants
+  - \<addme\>
+
+#### Agenda and Notes
+  -
   - \<addme\>
 
 #### Action Items
   - \<addme\>
+
 
 
