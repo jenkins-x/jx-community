@@ -14,7 +14,7 @@
 
 * Meeting notes on HackMD.io: https://hackmd.io/@jx-docs-sig/HJYAmMyjL
 * When: We are still working out the optimal time for this SIG to meet. First Docs SIG meeting will be at 16:30 UTC Monday, 18 May.
-* Google Meet: https://meet.google.com/qxn-pjti-ziv
+* Zoom Link:  https://cloudbees.zoom.us/j/93384187996
 * Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 * Jenkins X Public Calendar: [here](https://jenkins-x.io/community/calendar/)
 
