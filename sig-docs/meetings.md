@@ -103,15 +103,15 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 
 #### Agenda and Notes
   - GSoD discussion -- support propospective applicants, feedback, etc
-  - Deane: Capability Matrix, not supportability matrix ;) Will be worked on during Day of docs (happening tomorrow): https://github.com/jenkins-x/jx-docs/issues/2824  
+  - Deane: Capability Matrix, not supportability matrix ;) Will be worked on during Day of Docs (happening tomorrow): https://github.com/jenkins-x/jx-docs/issues/2824  
   - Matrix will be focused on big 3 cloud providers, mainly.
-  - Definite interest on this matrix for GSoD
+  - Definite interest on matrix for GSoD
   - Question from Ankit: Is this this still relevant? https://jenkins-x.io/blog/2019/04/03/terraform-jenkins-x/#step-1---create-terraform-plan Also should there be a dark mode? :)
       - Oscar says to unpublish this article, no longer relevant
       - Ankit to create issue to remove. 👍
   - Cloud credits coming soon for docs contributors, hopefully next week
   - Discussion on left-nav restructuring. Discussion focused on improvements under Creating Projects. 
-      - Ankit noticed some mentions of Jenkinsfile: https://jenkins-x.io/docs/create-project/build-packs/#creating-new-build-packs -> talks act jenkinsfile ... *abt 
+      - Ankit noticed some mentions of Jenkinsfile: https://jenkins-x.io/docs/create-project/build-packs/#creating-new-build-packs 
   - Buildpacks has some out of date info
   - Would be nice to enable dark mode for the docs site. This should be created as an issue.
 
