@@ -9,6 +9,7 @@
   - [2020-05-25 Meeting](#may-25-2020)
   - [2020-06-01 Meeting](#june-1-2020)
   - [2020-06-08 Meeting](#june-8-2020)
+  - [2020-06-15 Meeting](#june-15-2020)
   
 ## Logistics
 
@@ -92,6 +93,38 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 ### June 8, 2020
 
 #### Participants
+  - Ethan Jones
+  - Kara de la Marck
+  - Oscar Medina
+  - Ankit Mohapatra
+  - John Ha
+  - Nitin Agarwal
+  - Deane Smith
+
+#### Agenda and Notes
+  - GSoD discussion -- support propospective applicants, feedback, etc
+  - Deane: Capability Matrix, not supportability matrix ;) Will be worked on during Day of docs (happening tomorrow): https://github.com/jenkins-x/jx-docs/issues/2824  
+  - Matrix will be focused on big 3 cloud providers, mainly.
+  - Definite interest on this matrix for GSoD
+  - Question from Ankit: Is this this still relevant? https://jenkins-x.io/blog/2019/04/03/terraform-jenkins-x/#step-1---create-terraform-plan Also should there be a dark mode? :)
+      - Oscar says to unpublish this article, no longer relevant
+      - Ankit to create issue to remove. 👍
+  - Cloud credits coming soon for docs contributors, hopefully next week
+  - Discussion on left-nav restructuring. Discussion focused on improvements under Creating Projects. 
+      - Ankit noticed some mentions of Jenkinsfile: https://jenkins-x.io/docs/create-project/build-packs/#creating-new-build-packs -> talks act jenkinsfile ... *abt 
+  - Buildpacks has some out of date info
+  - Would be nice to enable dark mode for the docs site. This should be created as an issue.
+
+#### Action Items
+  - Unpublish https://jenkins-x.io/blog/2019/04/03/terraform-jenkins-x/#step-1---create-terraform-plan (@Oscar)
+  - Split quickstarts and imports into two articles, removing "creating" from quickstarts and move build parts to bottom of the left nav (@John). Also, make sure Creating Apps information is pathed to and thus can be navigated to on live site (currently it is not visible in nav structure).
+  - Add message at the top of import and quickstart pages letting users know to visit the other page if they're new / existing (@John)
+  - @Deane to get Kara information on Day of Docs. @Kara will add this to Jenkins X Calendar. Good to message this as well on social channels.
+
+
+### June 15, 2020
+
+#### Participants
   - \<addme\>
 
 #### Agenda and Notes
@@ -100,6 +133,4 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 
 #### Action Items
   - \<addme\>
-
-
-
+ 
