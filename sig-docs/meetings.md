@@ -125,12 +125,31 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 ### June 15, 2020
 
 #### Participants
+  - Kara de la Marck
   - \<addme\>
+  - 
 
 #### Agenda and Notes
-  -
+  - Discussions on an official Jenkins X Docs "Style Guide". Some kickoff issues:
+    * One sentence per line
+    * Weighting by x10
+    * backticks `` vs italics *
+    * code blocks use triple backticks + designator like ```sh
+    * commands should NOT use prompts $ or >
+    * No full HTML pages -- use Hugo well, shortcodes, partials, markdown, etc
+  - Oscar: Discussion on Jenkins X structure: who decides, should the SIG be taking a directional role?
+  - Kara: What is the goal/purpose of this board?
+  - Oscar: Should the board take more control over what is merged in Jenkins X docs?
+  - Kara: Should we do triage in this meeting? Spend 20 minutes each meeting? Are we willing to spend an hour on this meeting?
+      - general response: not an hour. Need more efficiency and can maybe do 40 min meetings
+      - Kara: Need more pre-meeting additions to this Hack.MD by all so we know the focus discussions for the meeting. Links to issues are good, so people can have context for the discussion and it can continue after the meeting(s) on the issues.
+      - Kara: in addition, for future meetings, we can have 15-20 minutes reserved for triage.
+  - Discussion of Docs navigation Issue raised by Viktor during Day of Docs.
+  - Improvments in structure are all well and good, but we need to ensure the content is improving substantially.
   - \<addme\>
 
 #### Action Items
-  - \<addme\>
- 
+  - John to draft (PR) an initial style guide.
+  - Kara to add 15 min set time to the agenda for this meeting. And we will see how this process goes.
+  - All of us: Think about Triage process and how we want to label the issues.
+  
