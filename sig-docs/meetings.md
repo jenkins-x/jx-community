@@ -13,7 +13,6 @@
   - [2020-05-18 Meeting](#may-18-2020)
  
   
-  
 ## Logistics
 
 * Meeting notes on HackMD.io: https://hackmd.io/@jx-docs-sig/HJYAmMyjL
@@ -33,8 +32,10 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 
 #### Agenda and Notes
   - Review action items from last week
+  - There was confusion last week on the purpose/goals of this SIG. Please take a look at the [README on the repo](https://github.com/jenkins-x/jx-community/tree/master/sig-docs). Do we want to add to that? 
   - \<addme\>
   - 20 minutes triage on [jx-docs issues](https://github.com/jenkins-x/jx-docs/issues)
+  - Two of these meetings are recorded, but haven't been uploaded to YouTube. Do we want these on Jenkins X YouTube channel? Would it be better to have a link on README of repo to the recordings stored in Google Drive? 
 
 #### Action Items
   - \<addme\>
