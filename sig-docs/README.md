@@ -10,6 +10,7 @@
 
      * user-reported issues
      * content audits performed by SIG members
+* See [original proposal and discussion here](https://github.com/jenkins-x/jx-docs/issues/2675)
 
 ## Leadership
 
