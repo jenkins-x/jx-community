@@ -5,6 +5,7 @@
 - [Logistics](#logistics)
 - Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-06-29 Meeting](#june-29-2020)
   - [2020-06-22 Meeting](#june-22-2020)
   - [2020-06-15 Meeting](#june-15-2020)
   - [2020-06-08 Meeting](#june-8-2020)
@@ -25,20 +26,69 @@
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
+### June 29, 2020
+
+#### Participants
+  - Kara de la Marck
+  - Hartmut Ferentschik
+  - Ankit
+  - Nitin
+  - Deane Smith
+  - Sahil
+  - John Ha
+
+#### Agenda and Notes
+  - https://github.com/jenkins-x/jx-docs/issues/2934
+  - https://github.com/jenkins-x/jx-docs/issues/2941  
+  - https://github.com/jenkins-x/jx-docs/issues/2852
+  - https://github.com/jenkins-x/jx-docs/issues/2803:
+      - on hold for now, first verify security information/process
+  - https://github.com/jenkins-x/jx-docs/issues/2935
+
+#### Action Items
+
+
 ### June 22, 2020
 
 #### Participants
-  - \<addme\>
+  - Ethan Jones
+  - Kara de la Marck
+  - Hartmut Ferentschik
+  - Ankit
+  - John Ha
+  - Deane Smith
 
 #### Agenda and Notes
   - Review action items from last week
+      - Style guide discussed (see below)
+      - Triage added to agenda as discussed last week
   - There was confusion last week on the purpose/goals of this SIG. Please take a look at the [README on the repo](https://github.com/jenkins-x/jx-community/tree/master/sig-docs). Do we want to add to that? 
-  - \<addme\>
+      - Did not cover this
+  - Docs style guide update from John
+      - John is working on a PR now with a lightweight style guide, demo'd on the meeting
+          - One sentence per line 🎉
+          - Lots of other good stuff, will be added to the docs contributor guide
   - 20 minutes triage on [jx-docs issues](https://github.com/jenkins-x/jx-docs/issues)
-  - Two of these meetings are recorded, but haven't been uploaded to YouTube. Do we want these on Jenkins X YouTube channel? Would it be better to have a link on README of repo to the recordings stored in Google Drive? 
+      - We did not get around to triage this week
+  - Two of these meetings are recorded, but haven't been uploaded to YouTube. Do we want these on Jenkins X YouTube channel? Would it be better to have a link on README of repo to the recordings stored in Google Drive?
+      - Kara will create a Youtube playlist for the recording and update the readme to link to the playlist and the meeting notes
+ - There are 2 environment variables (JX_BOOT_START_STEP and JX_BOOT_END_STEP) which are incredibly useful for debugging boot issues quickly, which probably can be part of the docs.
+     - Question about if the commands should be better documented and if so, where
+     - Need to differentiate between `jx boot` and `jx install`, especially if not deprecating `jx install` asap. Current docs are confusing for users.
+     - Ethan suggestion: Deprecated docs section, that is suggested is sections with new commands. So main docs would focus on `jx boot`, and there would be a statement that previously `jx install` was used and give a link to `js install` instructions that would be located in deprecated section of docs.
+     - This is a good improvement to the docs to do now. 
+  - Copy to clipboard functionality for commands in the doc?
+      - Everyone agrees this is a good idea, just how to get it done 
+  - Docs are not very clear about minikube/minishift being deprecated.
+      - Ankit has done a PR on this that needs review and approval
+- Due to the amount of churn recently with documentation updates, a good amount of the translated content needs updating.
+    - Deane suggested that a high priority issue be created to address the most vital content first - Getting Started.
 
 #### Action Items
-  - \<addme\>
+  - :collision: :checkered_flag: The docs site currenly contains content that has been dumped into folders called **old**  Since they are not being used I (Oscar medina), recommend we delete the content as it is making it difficult to run HTMLProofer for new content.
+- Hardy/Deane/Oscar to review Ankit's PR on removing / deprecating minikube
+- Ethan will get rid of duplicate child in install section and just have four children
+
 
 
 ### June 15, 2020
