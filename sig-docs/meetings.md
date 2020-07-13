@@ -5,6 +5,8 @@
 - [Logistics](#logistics)
 - Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-07-013 Meeting](#july-13-2020)
+  - [2020-07-06 Meeting](#july-6-2020)
   - [2020-06-29 Meeting](#june-29-2020)
   - [2020-06-22 Meeting](#june-22-2020)
   - [2020-06-15 Meeting](#june-15-2020)
@@ -25,6 +27,43 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### July 13, 2020
+
+#### Participants
+  - Kara de la Marck
+  - Ankit
+  - James Rawlings
+  - James Strachan
+  - Sahil
+
+#### Agenda and Notes
+- https://github.com/jenkins-x/jx-docs/pull/2957
+- https://github.com/jenkins-x/jx-docs/pull/2958
+- https://github.com/jenkins-x/jx-docs/issues/2954
+- Discussion on creating section in Docs on the SIGs and how to get involved. Should be in Community section of the Docs.
+- Documentation needed on how we define Alpha, Beta, GA, stable, experimental. Standards on code coverage, etc. This needs to be thought about now and applied to the Jenkins X components as we move to a more modular Jenkins X
+
+#### Action Items
+  - Kara to create section in Docs on the SIGs and how to get involved.
+  - Kara to create issue for defining what Alpha, Beta, GA, stable, experimental means for Jenkins X components/modules. 
+  - Kara to update meeting link 😅
+
+### July 6, 2020
+
+#### Participants
+  - James Rawlings
+  - Ankit
+  - Sahil Yerawar
+  - John Ha
+  - Nitin
+
+#### Agenda and Notes
+
+- discussed https://github.com/jenkins-x/jx-docs/pull/2950, let's wait for Kara to see, maybe there should be a comment on the website link to highlight this is a paid for course?  It might still be nice to include books and paid for tutorials as a list of resources to help people learn more about Jenkins X?
+- discussed Sahill's idea of using Asciicinema to record longer codeblocks and command-line animated demos to show readers how a command or longer code block works. The proposal is [here](https://docs.google.com/document/d/1oBtrRxv6ECv_EOozdQ4IkX8soC9QMUaJaKSmVkIHtIE/edit?pli=1#heading=h.m2ikibwgxno6) and an asciicinema example is [here](https://asciinema.org/a/7HZIUVt6g4NvE9Mk4HwXBzNbu).
+- discussed https://github.com/jenkins-x/jx-docs/issues/2943 Ankit is offering to take a look at it this
+- Sahil might take a look at https://github.com/jenkins-x/jx-docs/issues/2877 - very cool :)
 
 ### June 29, 2020
 
