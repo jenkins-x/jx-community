@@ -31,7 +31,7 @@ Membership to the SIG is open and we welcome new members to join!
 
 ## Meetings
 * Docs SIG meets at 16:30 UTC on Mondays (*See your timezone [here](https://time.is/1630_in_UTC)*)
-* See [Jenkins X calendar](https://jenkins-x.io/community/calendar/) to add to your calendar.
+* See [Jenkins X calendar](https://jenkins-x.io/community/calendar/) for more information and to add the meeting to your calendar.
 
 
 ### Schedule and Cadence
