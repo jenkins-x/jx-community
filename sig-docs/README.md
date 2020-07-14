@@ -30,15 +30,11 @@ Proposed Working Groups / Subprojects and respective leaders:
 Membership to the SIG is open and we welcome new members to join!
 
 ## Meetings
-* Inaugural Docs SIG meeting at 16:30 UTC Monday, 18 May (*See your timezone [here](https://time.is/1630_in_UTC)*)
+* Docs SIG meets at 16:30 UTC on Mondays (*See your timezone [here](https://time.is/1630_in_UTC)*)
 * See [Jenkins X calendar](https://jenkins-x.io/community/calendar/) to add to your calendar.
-* Meetings will be recorded and made available on the [Jenkins X YouTube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
-
 
 ### Schedule and Cadence
-Regular Docs SIG meetings will be held. We are aiming for a cadence of once a week. 
-
-The meeting time for the Docs SIG is likely to change in the future, but this will be discussed and finding the optimal time is an action item for the new SIG.
+Regular Docs SIG meetings will be held. Currently, the meeting cadence is weekly. 
 
 ## Contact
 [Open Community Issues/PRs](https://github.com/jenkins-x/jx-docs/issues)
