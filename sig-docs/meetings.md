@@ -5,7 +5,8 @@
 - [Logistics](#logistics)
 - Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 - [Agenda and Notes](#agenda-and-notes)
-  - [2020-07-013 Meeting](#july-13-2020)
+  - [2020-07-20 Meeting](#july-20-2020)
+  - [2020-07-13 Meeting](#july-13-2020)
   - [2020-07-06 Meeting](#july-6-2020)
   - [2020-06-29 Meeting](#june-29-2020)
   - [2020-06-22 Meeting](#june-22-2020)
@@ -20,13 +21,53 @@
 
 * Meeting notes on HackMD.io: https://hackmd.io/@jx-docs-sig/HJYAmMyjL
 * When: We are still working out the optimal time for this SIG to meet. First Docs SIG meeting will be at 16:30 UTC Monday, 18 May.
-* Zoom Link:  https://cloudbees.zoom.us/j/93384187996
+* Meeting Link:  meet.google.com/uyd-estx-ffz
 * Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 * Jenkins X Public Calendar: [here](https://jenkins-x.io/community/calendar/)
 
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### July 20, 2020
+
+#### Participants
+  - Kara de la Marck
+  - Nitin
+  - Sahil
+  - Ankit
+
+#### Agenda and Notes
+  - Discussion on alpha, beta, GA, stable, etc.
+  - Nitin suggests following closely Kubernetes definition and use of those terms.
+  - Discussion on upcoming SIGs.
+  - The next SIG will likely be a Testing and Release SIG.
+  - Ankit interested in being involved in T & R SIG. 
+  - Kara suggests Ankit could chair or co-chair SIG.
+  - Ankit: SIG needs to decide on testing coventions.
+  - Go mock? mocks vs tests? naming conventions on functions? what should we test? Focus on unit tests important, as well as integration tests. Unit tests will likely be first focus. Testing framework to use?
+  - Friday (1pm UK time) is a good meeting time to propose.
+  - Sahil: Function tests are good as well. 
+  - Ankit: Yes, would generally group them with unit tests and they should be initial focus for testing SIG.
+  - Sahil: discussion on his proposal for GSoD
+  - Which sections of the docs to work on first for ascii cinema. 
+  - plural sight course link:
+      - approved, but PR build failed. 
+      - Ankit to add note on course cost.
+  - jx ui open source:
+      - Ankit working on new open source UI
+      - Docs need to announce the UI change.
+  - cloudbees jx future:
+      - Need to remove sections in docs on CJXD and SaaS
+  - Ankit: Dark mode on docs site. 
+      - Sahil working on PR.
+  
+#### Action Items
+  - Ankit to add note on course cost.
+  - Kara to shephard PR on Jenkins X course to be merged.
+  - Kara to create section in Docs on the SIGs and how to get involved.
+  - Kara to create issue for defining what Alpha, Beta, GA, stable, experimental means for Jenkins X components/modules.
+  - Kara to create Testing and Release SIG for Fridays. ⛩️
 
 ### July 13, 2020
 
@@ -47,7 +88,7 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 #### Action Items
   - Kara to create section in Docs on the SIGs and how to get involved.
   - Kara to create issue for defining what Alpha, Beta, GA, stable, experimental means for Jenkins X components/modules. 
-  - Kara to update meeting link 😅
+  - ~~Kara to update meeting link 😅~~  Done ✅ 
 
 ### July 6, 2020
 
