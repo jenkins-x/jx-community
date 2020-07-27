@@ -5,6 +5,7 @@
 - [Logistics](#logistics)
 - Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-07-27 Meeting](#july-27-2020)
   - [2020-07-20 Meeting](#july-20-2020)
   - [2020-07-13 Meeting](#july-13-2020)
   - [2020-07-06 Meeting](#july-6-2020)
@@ -36,9 +37,13 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 
 #### Agenda and Notes
  - Go over action items from last week.
+     - PR on Jenkins X course has been merged.
+     - Update: the Testing and Release SIG has been postponed as we would like to focus on GitOps SIG that has will be launched asap.
+     - Similarly, issue to discuss Alpha, Beta, GA, meaning slight delay as we focus on initial release of Jenkins X 3.
  - \<addme\>
 
 #### Action Items
+ - - Kara to create section in Docs on the SIGs and how to get involved.
  - \<addme\>
 
 ### July 20, 2020
