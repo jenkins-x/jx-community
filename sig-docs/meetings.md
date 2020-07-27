@@ -29,6 +29,18 @@
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
+### July 27, 2020
+
+#### Participants
+  - \<addme\>
+
+#### Agenda and Notes
+ - Go over action items from last week.
+ - \<addme\>
+
+#### Action Items
+ - \<addme\>
+
 ### July 20, 2020
 
 #### Participants
@@ -45,10 +57,10 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
   - Ankit interested in being involved in T & R SIG. 
   - Kara suggests Ankit could chair or co-chair SIG.
   - Ankit: SIG needs to decide on testing coventions.
-  - Go mock? mocks vs tests? naming conventions on functions? what should we test? Focus on unit tests important, as well as integration tests. Unit tests will likely be first focus. Testing framework to use?
+  - Go mock? mocks vs fakes? naming conventions on functions? what should we test? Focus on unit tests important, as well as integration tests. Unit tests will likely be first focus. Testing framework to use?
   - Friday (1pm UK time) is a good meeting time to propose.
   - Sahil: Function tests are good as well. 
-  - Ankit: Yes, would generally group them with unit tests and they should be initial focus for testing SIG.
+  - Ankit: Yes, would generally group them with integrations/e2e tests and they should be initial focus for testing SIG.
   - Sahil: discussion on his proposal for GSoD
   - Which sections of the docs to work on first for ascii cinema. 
   - plural sight course link:
