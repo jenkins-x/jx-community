@@ -33,18 +33,72 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 ### July 27, 2020
 
 #### Participants
-  - \<addme\>
+  - James Rawlings
+  - Kara de la Marck
+  - James Strachan
+  - Ankit
 
 #### Agenda and Notes
- - Go over action items from last week.
+ - Go over action items from last week:
      - PR on Jenkins X course has been merged.
      - Update: the Testing and Release SIG has been postponed as we would like to focus on GitOps SIG that has will be launched asap.
-     - Similarly, issue to discuss Alpha, Beta, GA, meaning slight delay as we focus on initial release of Jenkins X 3.
- - \<addme\>
+     - Similarly, issue to discuss Alpha, Beta, GA, meaning slight delay as we focus on initial release of Jenkins X 3. 
+     - JS: Once there is a better understanding of what clients need for each of these quality gates, then we should outline what these terms mean for the Jenkins X project. Conversations to determine what is needed for quality gates are ongoing atm.
+- JS: FAQ are all over the website now we’ve refactored the docs; so here is a spike at consolidating all the FAQ’s together in a single place https://github.com/jenkins-x/jx-docs/pull/2981 what do folks think? http://jx-docs.jx-jenkins-x-jx-docs-pr-2981.jenkins-x.live/docs/resources/faq/
+    - KM: Excellent! Even with the new Discourse. https://jenkinsx.discourse.group/
+    - The FAQs still need to be edited and checked if not outdated.
+    - Once updated we can use them to populate JX discourse.
+    
+- JS: We should enhance the JX Roadmap with links to Enhancement Proposals
+     - JS: And move roadmap to Docs (out of community section)
+     - JR: We should clarify enhancement process
+     - JS: Longterm FAQ is Discourse. Enhancement proposals are Issues
+     - JR: Enhancement proposal process => issue is closed 1) when it is complete and the ending action is to summarize the proposal in one page 2) or enhancement proposal closed as not moving forward
+     - JS: each enhancement proposal should have its own project board in jx org
+     
+ - This isn't just a docs issue; however, this is a place to start the discussion. The outcome will need to be documented, in our style guide and perhaps our CoC.
+     -  Proposal: We should consider our use of terminology that does not reflect the values of our community, and is increasingly dated and viewed as technically inaccurate.
+     - Terms to consider replacing:
+     - Master / slave  
+         - Note the `jx` repo does not contain the term "slave", however we should consider and state in our style guide what is our preferred term. We do already use "agent" a lot in `jx`.
+         - Master. This appears a lot in `jx` and will be the most work to change. Proposal that its replacement is "main".
+    - Whitelist/Blacklist
+        - Proposal to replace with Allowlist / Denylist
+ - Discussion of terminology proposal:
+     - JR: Jenkins X itself doesn't have a great need for a master / worker pairing. We mostly refer to these in terms of the projects we incorporate or extend. In these cases, we likely should use the terminology of those projects.
+     - JS: we do use master a lot, main is a good option. In docs we should switch to main. 
+     - JS: easier to change docs, the docs can change. 
+     - AM: codebase complicated to change: https://github.com/pmmmwh/react-refresh-webpack-plugin/issues/113
+     - KM: We could acknowledging our preferred terms and create a style guide for JX3. 
+     - JR: Good to have the acknowledgement and change the docs.
+     - In code it'll be more work to take it out. Because getting GH to default to main is more complicated.
+     - AM: GH has announced that they are switching to using main, but there isn't a timeline yet.
+     - JS: It would be nice for new quickstarts to use main.
+     - JR: postcommit config could check for this.
+ 
+ - AM: Should this be discussed in the office hours? https://github.com/jenkins-x/jx/issues/7343 -> this would also mean updating the docs ...
+     - JR: Will be addressed by using Tekton catalogue.
+     - JR: We should update and comment on the issue.
+ - AM: should we have SLA on PR reviews (just give a timeline on how long it will take to review PRs). Put in the docs, so people don't expect instantaneous reviews.
+     - JR: very good idea, but for the moment we need to focus on JX3 direction. Encouraging development on JX3 work by community. JX2 work should be mostly maintenance. 
+     - As part of our effect to encourage contributors to JX3 we will develop these docs. 
+     - JS: docs on reviews on docs site would be good.
+     -  - AM: We should have this as part of the PR review docs: https://github.com/golang/go/wiki/CodeReviewComments
+ - JS: need to ensure we are checking all repos for PRs, some sometimes are not seen.
+     - KM: triage party will pull in many repos, so great for bringing PRs all together, if set up correctly.
+
+  
 
 #### Action Items
- - - Kara to create section in Docs on the SIGs and how to get involved.
- - \<addme\>
+ - Kara to create section in Docs on the SIGs and how to get involved.
+ - Kara to go over FAQs and start populating the Discourse site
+ - Kara to add to FAQs as needed.
+ - How to get involved: more information on enhancement process and how to get involved and page on SIGs
+ - Kara to create section on existing community home page on Discourse.
+ - More on community home page on how to get involved, enhancement process, etc
+ - Kara to launch GitOps SIG as soon as infra set up (maybe end of week, or soon)
+ - JR to comment on Buildpack issue
+ 
 
 ### July 20, 2020
 
