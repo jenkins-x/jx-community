@@ -34,13 +34,41 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 ### August 3, 2020
 
 #### Participants
+  - Kara de la Marck
+  - Sahil
+  - Ankit
+  - James Rawlings
   - \<addme\>
 
 #### Agenda and Notes
  - Go over action items from last week.
- - \<addme\>
-
+     - KM: responded to Buildpack naming issue: https://github.com/jenkins-x/jx/issues/7343
+     - KM: Discourse site populated with more FAQs, and getting traction/responses. Has everyone joined? 
+     - KM: updates to community pages still needed, SIGs and Discourse
+         - For Discourse, who here is informed when people comment on issues?
+         - Answer (Ankit, James): there is a weekly summary sent by email, both receive it.
+- Is this information on secret management in FAQs up to date? https://github.com/jenkins-x/jx-docs/issues/3004
+    - No. Needs update, see below.
+      
+ - DCO information not in Contribute to Docs sections, needs to be added: https://jenkins-x.io/docs/resources/faq/using/
+     - KM: Actually, the entire section on contributing to docs needs an update, and reorg. There are long pages of text and we should break it into sections. With links depending on what user needs -- not everyone needs to scroll past sections on creating branch, etc. It's good to have lots of info and context, but each section should be on its own, for more depth/context/info for those that need it.
+ - Should we start putting in place documentation on GitOps SIG?
+     - JR: server set up for creating cluster to import JX 3 repos and work on them and present JX3
+     - Once that's done (possibly next week), then we launch GitOps SIG
+ - AM: Look at all issues (open and closed), and select the ones which talk about auditing docs, and work on them (the ones from John are good - https://github.com/jenkins-x/jx-docs/issues?q=is%3Aissue+author%3Ajha-cloudbees+audit)
+ - AM: Put the link to the discourse link in the readme section of the jx repo (similar to terraform: https://github.com/hashicorp/terraform)
+ - AM: https://github.com/jenkins-x/jx-docs/issues/2993
+ - AM: https://github.com/jenkins-x/jx-docs/issues/2934
+     - Yes. JR: Would be good to start in FAQ section. Then we build up section on contributing.
 #### Action Items
+ - KM: reorg contributing sections
+ - KM: add to community section
+ - AM: re links in jx repo ReadMe, Ankit will add the links at the top. 
+ - KM: Fix info in FAQ on secrets: https://jenkins-x.io/docs/resources/faq/using/ Link to Hardy's Vault work and external secrets repo as an option. 
+ - JR: review the secrets update and add info on where we are going.
+ - KM: update roadmap with enhancements links
+ - KM: Rewrite Contribution to docs, then code sections important, 
+     - JR note: then how to highlight how people can get involved -- will be easier when we have more SIGs, can point people to the SIGs.
  - \<addme\>
 
 ### July 27, 2020
@@ -54,12 +82,12 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 #### Agenda and Notes
  - Go over action items from last week:
      - PR on Jenkins X course has been merged.
-     - Update: the Testing and Release SIG has been postponed as we would like to focus on GitOps SIG that has will be launched asap.
-     - Similarly, issue to discuss Alpha, Beta, GA, meaning slight delay as we focus on initial release of Jenkins X 3. 
+     - Update: the Testing and Release SIG has been postponed as we would like to focus on GitOps SIG that will be launched asap.
+     - Similarly, issue on Alpha, Beta, GA postponed as we focus on initial release of Jenkins X 3. 
      - JS: Once there is a better understanding of what clients need for each of these quality gates, then we should outline what these terms mean for the Jenkins X project. Conversations to determine what is needed for quality gates are ongoing atm.
 - JS: FAQ are all over the website now we’ve refactored the docs; so here is a spike at consolidating all the FAQ’s together in a single place https://github.com/jenkins-x/jx-docs/pull/2981 what do folks think? http://jx-docs.jx-jenkins-x-jx-docs-pr-2981.jenkins-x.live/docs/resources/faq/
     - KM: Excellent! Even with the new Discourse. https://jenkinsx.discourse.group/
-    - The FAQs still need to be edited and checked if not outdated.
+    - JS: The FAQs still need to be edited and checked if not outdated.
     - Once updated we can use them to populate JX discourse.
     
 - JS: We should enhance the JX Roadmap with links to Enhancement Proposals
@@ -68,9 +96,9 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
      - JS: Longterm FAQ is Discourse. Enhancement proposals are Issues
      - JR: Enhancement proposal process => issue is closed 1) when it is complete and the ending action is to summarize the proposal in one page 2) or enhancement proposal closed as not moving forward
      - JS: each enhancement proposal should have its own project board in jx org
-     
- - This isn't just a docs issue; however, this is a place to start the discussion. The outcome will need to be documented, in our style guide and perhaps our CoC.
-     -  Proposal: We should consider our use of terminology that does not reflect the values of our community, and is increasingly dated and viewed as technically inaccurate.
+  
+ - KM: Proposal: We should consider our use of terminology that does not reflect the values of our community, and is increasingly dated and viewed as technically inaccurate.
+     - This isn't just a docs issue; however, this is a place to start the discussion. The outcome will need to be documented, in our style guide and perhaps our CoC.
      - Terms to consider replacing:
      - Master / slave  
          - Note the `jx` repo does not contain the term "slave", however we should consider and state in our style guide what is our preferred term. We do already use "agent" a lot in `jx`.
@@ -78,7 +106,7 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
     - Whitelist/Blacklist
         - Proposal to replace with Allowlist / Denylist
  - Discussion of terminology proposal:
-     - JR: Jenkins X itself doesn't have a great need for a master / worker pairing. We mostly refer to these in terms of the projects we incorporate or extend. In these cases, we likely should use the terminology of those projects.
+     - JR: Jenkins X itself doesn't have a great need for a master / worker pairing. We mostly refer to these, if/when needed, in theterms of the projects we incorporate or extend. In these cases, we likely should use the terminology of those projects.
      - JS: we do use master a lot, main is a good option. In docs we should switch to main. 
      - JS: easier to change docs, the docs can change. 
      - AM: codebase complicated to change: https://github.com/pmmmwh/react-refresh-webpack-plugin/issues/113
@@ -103,12 +131,12 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
   
 
 #### Action Items
- - Kara to create section in Docs on the SIGs and how to get involved.
+
  - Kara to go over FAQs and start populating the Discourse site
  - Kara to add to FAQs as needed.
  - How to get involved: more information on enhancement process and how to get involved and page on SIGs
- - Kara to create section on existing community home page on Discourse.
  - More on community home page on how to get involved, enhancement process, etc
+ - Kara to create section on existing community home page on Discourse.
  - Kara to launch GitOps SIG as soon as infra set up (maybe end of week, or soon)
  - JR to comment on Buildpack issue
  
