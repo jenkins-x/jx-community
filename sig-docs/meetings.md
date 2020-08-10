@@ -5,6 +5,7 @@
 - [Logistics](#logistics)
 - Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-08-10 Meeting](#august-10-2020)
   - [2020-08-03 Meeting](#august-3-2020)
   - [2020-07-27 Meeting](#july-27-2020)
   - [2020-07-20 Meeting](#july-20-2020)
@@ -31,6 +32,35 @@
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
+### August 10, 2020
+
+#### Participants
+  - Kara de la Marck
+  - Sahil
+  - Ankit
+  - James Rawlings
+  - James Strachan
+  - \<addme\>
+
+#### Agenda and Notes
+ - Go over action items from last week.
+ - Discussion on Jenkins X 3 docs, James S is writing a docs version for Jenkins X 3. We can all work off his PR over the next week, ensuring JX3 docs clear, etc.
+ - JS: some of our docs for JX3 will be in the repos depending on path end user chooses -- we have many permutations of possible paths. These paths and their pre-configurations will function a bit like quickstarts
+ - JR: the ReadMes on different modules will be an important source of documentation
+ - JS: in the docs site we will link to these resources (to start)
+ - JS: one of goals of JX3 is that users should be able to to configure their cluster anyway they want and use JX3
+ - KM: Demos on office hours can be trimmed to be focused and then used on website.
+ - JR: Good, but only hitch is they go out of date quickly, so that needs to be managed.
+ - KM: where to put the roadmap in addition to community section?
+ - JS: Perhaps use shortcodes (or in worst case copy and paste, but better to avoid), put in Docs section, under Guides and Resources
+ - KM: autogenerating docs might need a nudge as https://jenkins-x.io/commands/jx_step_git_close/ has not updated (and should have with example change)
+ - JS: will take a look and ensure auto-updating of docs working.
+
+#### Action Items
+ - KM: Fix contributing sections
+ - KM: add the additional page on Roadmap in Docs section
+ - AM: re links in jx repo ReadMe, Ankit will add the links at the top.
+
 ### August 3, 2020
 
 #### Participants
@@ -47,10 +77,10 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
      - KM: updates to community pages still needed, SIGs and Discourse
          - For Discourse, who here is informed when people comment on issues?
          - Answer (Ankit, James): there is a weekly summary sent by email, both receive it.
-- Is this information on secret management in FAQs up to date? https://github.com/jenkins-x/jx-docs/issues/3004
+- Is this information on secret management in FAQs up to date? https://jenkins-x.io/docs/resources/faq/using/#how-do-i-manage-secrets-in-each-environment
     - No. Needs update, see below.
       
- - DCO information not in Contribute to Docs sections, needs to be added: https://jenkins-x.io/docs/resources/faq/using/
+ - DCO information not in Contribute to Docs sections, needs to be added: https://github.com/jenkins-x/jx-docs/issues/3004
      - KM: Actually, the entire section on contributing to docs needs an update, and reorg. There are long pages of text and we should break it into sections. With links depending on what user needs -- not everyone needs to scroll past sections on creating branch, etc. It's good to have lots of info and context, but each section should be on its own, for more depth/context/info for those that need it.
  - Should we start putting in place documentation on GitOps SIG?
      - JR: server set up for creating cluster to import JX 3 repos and work on them and present JX3
@@ -64,7 +94,7 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
  - KM: reorg contributing sections
  - KM: add to community section
  - AM: re links in jx repo ReadMe, Ankit will add the links at the top. 
- - KM: Fix info in FAQ on secrets: https://jenkins-x.io/docs/resources/faq/using/ Link to Hardy's Vault work and external secrets repo as an option. 
+ - KM: Fix info in [FAQ on secrets](https://jenkins-x.io/docs/resources/faq/using/#how-do-i-manage-secrets-in-each-environment): Link to Hardy's Vault work and external secrets repo as an option. 
  - JR: review the secrets update and add info on where we are going.
  - KM: update roadmap with enhancements links
  - KM: Rewrite Contribution to docs, then code sections important, 
