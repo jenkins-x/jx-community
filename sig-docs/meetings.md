@@ -5,6 +5,7 @@
 - [Logistics](#logistics)
 - Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-08-10 Meeting](#august-17-2020)
   - [2020-08-10 Meeting](#august-10-2020)
   - [2020-08-03 Meeting](#august-3-2020)
   - [2020-07-27 Meeting](#july-27-2020)
@@ -31,6 +32,21 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### August 17, 2020
+
+#### Participants
+  - \<addme\>
+
+#### Agenda and Notes
+ - Go over action items from last week.
+ - KM: Deprecating Addons: https://github.com/jenkins-x/jx/pull/7514  
+     - What needs to change in the docs?
+ - \<addme\>
+
+#### Action Items
+ - \<addme\>
+
 
 ### August 10, 2020
 
