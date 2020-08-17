@@ -16,15 +16,12 @@
 
 The Chair of the SIG, with agreement from Members, will run operations and processes governing the SIG. He/she will also establish and decommission subprojects.
 
-Proposed Chair: [Ethan Jones](https://github.com/ethangj)
+Proposed Chair: TBD
 
 Proposed Working Groups / Subprojects and respective leaders:
-* Content and Writing Quality: [John Ha](https://github.com/jha-cloudbees)
-* Structure of docs site: [Oscar Medina](https://github.com/sharepointoscar)
+* Season of Docs: [Kara de la Marck](https://github.com/MarckK)
 * 中文 translation: [Zhao Xiaojie](https://github.com/LinuxSuRen)
 * Spanish translation: [Manuel Morejón](https://github.com/mmorejon)
-* Season of Docs: [Kara de la Marck](https://github.com/MarckK)
-
 
 ### Members
 Membership to the SIG is open and we welcome new members to join!
