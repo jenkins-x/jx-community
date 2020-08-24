@@ -3,9 +3,9 @@
 ## Quick links
 
 - [Logistics](#logistics)
-- Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 - [Agenda and Notes](#agenda-and-notes)
-  - [2020-08-10 Meeting](#august-17-2020)
+  - [2020-08-24 Meeting](#august-24-2020)
+  - [2020-08-17 Meeting](#august-17-2020)
   - [2020-08-10 Meeting](#august-10-2020)
   - [2020-08-03 Meeting](#august-3-2020)
   - [2020-07-27 Meeting](#july-27-2020)
@@ -26,25 +26,82 @@
 * Meeting notes on HackMD.io: https://hackmd.io/@jx-docs-sig/HJYAmMyjL
 * When: 16:30 UTC Mondays.
 * Meeting Link:  meet.google.com/uyd-estx-ffz
-* Meeting Recordings: [Jenkins X Youtube Channel](https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
+(https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
 * Jenkins X Public Calendar: [here](https://jenkins-x.io/community/calendar/)
 
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
+### August 24, 2020
+
+#### Participants
+ - Nitin 
+ - Kara
+ - Ankit
+
+#### Agenda and Notes
+* Nitin: Proposal to create the issue template in our Jenkins X [docs repo](https://github.com/jenkins-x/jx-docs/issues) similar to Kubernetes Website [docs](https://github.com/kubernetes/website/issues). Reference procedure to follow [here](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository) and [here](https://docs.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates).
+* KM: Excellent!
+* Ankit: Can use what has been set up for jx repo. And port that to jx-docs repo. And can add a template for PRs as well.
+
+ - Ankit: update on EKS integration and docs for that. Yay!
+ - KM: https://github.com/jenkins-x/jx-docs/pull/3007
+ - KM: https://github.com/jenkins-x/jx-docs/pull/3006 https://jenkins-x.io/commands/jx_step_git_close/
+ - Ankit: James S is looking for people to try out Jenkins X 3 on minikube, while Nitin is waiting for his cloud resources, he could try this out and give feedback and work on those docs.
+ - Nitin: have limitations on what can install on laptop, so would rather use cloud resources.
+ - KM: announcement that testing & platform integration SIG launching soon -- both Ankit and Nitin enthusiastic about joining. :)
+ - Discussion on https://github.com/jenkins-x/jx-docs/pull/3033. 
+ - Ankit: Would be great to have strong clarity and separation between Jenkins X 2 and 3 docs. They should have separate sections and possibly with a banner at the top clarifying which version that docs page is for.
+
+#### Action Items
+ - Ankit: will take a look at fixing how cobra does the auto updates. (Thank you!)
+
 ### August 17, 2020
 
 #### Participants
+  - Nitin 
+  - Kara
+  - Ankit
+  - James R
+  - James S
   - \<addme\>
 
 #### Agenda and Notes
+ - Congratulations Nitin!! We are very excited to work with you during Google Season of Docs: https://developers.google.com/season-of-docs/docs/participants/project-jenkinsx-nitin
  - Go over action items from last week.
+     - KM: Roadmap updated, but not moved. Where do we want the roadmap to be in the docs?
+         - JS: do a page announcing roadmap and link to the roadmap in community section (so one source).
+     - KM: In terms of updating contributor sections, we don't seem to require commits to be signed for the docs, [see example PR](https://github.com/jenkins-x/jx-docs/pull/3022). In which case, that doesn't need to be added to contributing to docs section (see former action item).
+    - Ankit: We don't require DCO on the docs repo, but may be a good idea.
+    - JS: We need better instructions on how to do DCO for code commits. 
+    - KM: We can add in the simple way to do it as well.
  - KM: Deprecating Addons: https://github.com/jenkins-x/jx/pull/7514  
-     - What needs to change in the docs?
- - \<addme\>
-
+     - What needs to change in the docs? In addition to removing addon command info, how are we communicating the deprecation, do we have a timetable?
+ - KM: The 'Feedback' info blurb on the homepage is odd. First that we don't mention ChatOps, but also how it is described doesn't make sense:
+     - "Jenkins X automatically comments on your Commits, Issues and Pull Requests with feedback as code is ready to be previewed, is promoted to environments or if Pull Requests are generated automatically to upgrade versions."
+     - would be good to fix => ""
+ -  AM:
+    - Create a v2 section for jx2 docs. When user goes to v2 docs, tell them, that this is only for v2, and they can visit v3 docs to 
+      learn abt features in v3 (may be out a banner on the top)
+    - KM: I believe hugo/docsy has a default way to do this
+    - Do we need the eks/gke page in the docs (https://jenkins-x.io/docs/install-setup/create-cluster/eks/), it's just a copy 
+      of the readme of the terraform repo. 
+    - What's this: https://github.com/jenkins-x/jx-docs/deployments/activity_log?environment=github-pages (Should remove ...)
+    - JR: Not used, can be removed (was a POC, no longer in use)
+    - https://github.com/jenkins-x/jx-docs/issues/2906 and the corresponding pr-check issue: https://github.com/jenkins-x/jx-docs/issues/2912
+    - Guidelines for opening PRs for new contributors (add information both to the docs and PR templates?)
+    - JS: https://jenkins-x.io/community/documentation/style-guide/ Could always be added to.
+    - For PR reviewers - Check for issues linked to PR (Not all PRs need issues, but for a bug fix or enhancement it should be a must) - Issues
+      are shown in the changelogs for new releases, not PR descriptions
+    - What about our policy on the number of commits per PR - When I started contributing, I was told one per PR (which makes sense). If a PR
+      is too big, break it into multiple PRs, easy for reviewers
+    - JR: We don't have a policy. He doesn't see it as a problem if there is more than one commit per PR, as long as it's not hundreds :) 
+ - 
 #### Action Items
+ - Kara and Ankit (possibly Nitin) Go over JX 3 Alpha docs and make docs improvements and Issues to docs, but also jx repo
+ - Ankit: Will set up DCO for docs repo
+ - Kara: Will add DCO information, including extra easier ways to sign commits, to contributing to docs section. (Best to have link to single section between both contributor sections)
  - \<addme\>
 
 
@@ -73,7 +130,7 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
  - JS: will take a look and ensure auto-updating of docs working.
 
 #### Action Items
- - KM: Fix contributing sections
+ - KM: Fix contributing sections 
  - KM: add the additional page on Roadmap in Docs section
  - AM: re links in jx repo ReadMe, Ankit will add the links at the top.
 
