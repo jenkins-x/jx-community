@@ -58,3 +58,4 @@ Discussion during the Jenkins X Office Hours is a great way to gather further fe
 ## Current SIGs
 
 * [Docs](sig-docs/)
+* [Testing and Platform Integration](sig-testing-&-platform-integration/)
