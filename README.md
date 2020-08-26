@@ -11,7 +11,7 @@ This repo contains information on joining and contributing to the Jenkins X comm
 
 We’d love to talk with you about Jenkins X and are happy to help if you have any questions.
 
-**Slack:**
+**Slack**
 
 Talk to us on our slack channels, which are part of the Kubernetes slack. Join Kubernetes slack [here](https://slack.k8s.io/) and find us on our channels:
 
