@@ -11,13 +11,19 @@ This repo contains information on joining and contributing to the Jenkins X comm
 
 We’d love to talk with you about Jenkins X and are happy to help if you have any questions.
 
+**Slack:**
+
 Talk to us on our slack channels, which are part of the Kubernetes slack. Join Kubernetes slack [here](https://slack.k8s.io/) and find us on our channels:
 
 * [#jenkins-x-user](https://app.slack.com/client/T09NY5SBT/C9MBGQJRH) for users of Jenkins X
 
 * [#jenkins-x-dev](https://app.slack.com/client/T09NY5SBT/C9LTHT2BB) for developers of Jenkins X
 
-Find out more about our bi-weekly office hours, where we discuss all things Jenkins X, and other events [here](https://jenkins-x.io/community/).
+**Office Hours**
+
+Find out more about our bi-weekly Office Hours, where we discuss all things Jenkins X, and other events [here](https://jenkins-x.io/community/).
+
+**Discourse**
 
 Or ask questions about Jenkins X or post topics for discussion in [our Discourse forum](https://jenkinsx.discourse.group/). Join the [Jenkins X Discourse](https://jenkinsx.discourse.group/) forum to read answers to commonly asked questions and post additional questions.
 
