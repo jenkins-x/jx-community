@@ -1,8 +1,8 @@
 # ⛩ Testing and Platform Integration Special Interest Group
 
 ## Goals
-* Initally, the SIG will need to determine its objectives.
-* For testing: 
+* One of the initial tasks of the SIG will be to determine its objectives.
+* Some suggestions for testing: 
     * testing + linting at the minimum (logging/instrumentation could be considered, but initially we need focus)
     * Improve documentation around writing tests
     * Add a test coverage report
