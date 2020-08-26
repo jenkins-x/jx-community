@@ -23,7 +23,7 @@ Proposed Chair: TBD
 Membership to the SIG is open and we welcome new members to join!
 
 ## Meetings
-* Testing and Platform SIG meetings are held every other Friday at 12:00 UTC UTC (*See your timezone [here](https://time.is/1200_in_UTC)*)
+* TBD: Tentative time/schedule for this SIG meeting is every other Friday at 12:00 UTC UTC (*See your timezone [here](https://time.is/1200_in_UTC)*). The time for this meeting could very well change before the first meeting on Friday 4 September 2020.
 * See [Jenkins X calendar](https://jenkins-x.io/community/calendar/) to add to your calendar.
 
 ### Schedule and Cadence
