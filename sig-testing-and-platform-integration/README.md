@@ -13,17 +13,15 @@
     * helper libraries - common helper functions can be part of that package, there is already one which exists, but could be improved
 
 ## Leadership
-
 The Chair of the SIG, with agreement from Members, will run operations and processes governing the SIG. He/she will also establish and decommission subprojects.
 
 Proposed Chair: TBD
-
 
 ### Members
 Membership to the SIG is open and we welcome new members to join!
 
 ## Meetings
-* TBD: Tentative time/schedule for this SIG meeting is every other Friday at 15:00 UTC UTC (*See your timezone [here](https://time.is/1500_in_UTC)*). The time for this meeting could change before the first meeting on Friday 4 September 2020.
+* TBD: Tentative time/schedule for this SIG meeting is every other Friday at 15:00 UTC (*See your timezone [here](https://time.is/1500_in_UTC)*). The time for this meeting could change before the first meeting on Friday 4 September 2020.
    * In addition, we may form alternative meetings that are at an APAC friendly time.
 * See [Jenkins X calendar](https://jenkins-x.io/community/calendar/) to add to your calendar.
 
