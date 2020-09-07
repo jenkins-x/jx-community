@@ -4,6 +4,7 @@
 
 - [Logistics](#logistics)
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-09-07 Meeting](#september-7-2020)
   - [2020-08-24 Meeting](#august-24-2020)
   - [2020-08-17 Meeting](#august-17-2020)
   - [2020-08-10 Meeting](#august-10-2020)
@@ -32,6 +33,39 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### September 7, 2020
+
+#### Participants
+  - Kara de la Marck
+  - Ankit M
+  - James Rawlings
+  - \<addme\>
+
+#### Agenda and Notes
+ - Go over action items from last week.
+ - Thank you to Nitin for adding [Issue templating to jx-docs repo](https://github.com/jenkins-x/jx-docs/issues/new/choose), as discussed during 24 August meeting. :)
+ - During the last week, Andrew Bayer fixed how the docs were auto updating using cobra. All good now. 👍
+ - KM: We should improve the docs around using Octant. Have at least one blog post on Octant and a couple demos, but need actual docs section.
+     - JR: Will be doing work on Octant integration in the coming weeks and can add to Octant docs as that is done.
+ - KM: Deprecating Addons: https://github.com/jenkins-x/jx/pull/7514  
+     - What needs to change in the docs?  
+     - JR: Not much as we will just have two separate versions of JX.
+ - JR: To improve UX of docs for JX 3 we should have a meeting for design in 2 weeks time, when Nitin will have fully started. We have brainstorm and create wireframes and then we can use those designs to create better UX for docs site.
+ - JR: Need to be very clear about maturity of JX 3 when discussing it anywhere. 
+ - JR: We have should create a matrix for maturity for JX 3 and its features. 
+     - KM: We have discussed this in Testing & Platform SIG and Nitin has agreed to work on this. Essentially a capability matrix for JX3, and Nitin was brought in to work on capability matrix.
+ - Ankit: Could work on having more diagrams on architecture using Mermaid.js
+ - JR: Would be interesting to see what these look like. Important to have good looking diagrams.
+ - Ankit: Working on EKS, and will add to the docs there
+ - \<addme\>
+
+#### Action Items
+ - KM: In 2 weeks, have architecture diagram brainstorm session. So, should arrange the session next week, to be held the week after.
+ - KM: Keep pushing on getting Nitin his GCP cluster.
+ - Nitin: Starting GSoD officially next week. 🎉 Enjoy the Community bonding period. :)
+ - Ankit: Look into Mermaid.js
+ - \<addme\>
 
 ### August 24, 2020
 
