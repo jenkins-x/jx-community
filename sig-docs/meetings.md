@@ -26,8 +26,7 @@
 
 * Meeting notes on HackMD.io: https://hackmd.io/@jx-docs-sig/HJYAmMyjL
 * When: 16:30 UTC Mondays.
-* Meeting Link:  meet.google.com/uyd-estx-ffz
-(https://www.youtube.com/channel/UCN2kblPjXKMcjjVYmwvquvg)
+* Meeting Link: https://meet.google.com/uyd-estx-ffz
 * Jenkins X Public Calendar: [here](https://jenkins-x.io/community/calendar/)
 
 ## Agenda and Notes
@@ -54,7 +53,7 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
  - JR: To improve UX of docs for JX 3 we should have a meeting for design in 2 weeks time, when Nitin will have fully started. We have brainstorm and create wireframes and then we can use those designs to create better UX for docs site.
  - JR: Need to be very clear about maturity of JX 3 when discussing it anywhere. 
  - JR: We have should create a matrix for maturity for JX 3 and its features. 
-     - KM: We have discussed this in Testing & Platform SIG and Nitin has agreed to work on this. Essentially a capability matrix for JX3, and Nitin was brought in to work on capability matrix.
+     - KM: We have discussed this in Testing & Platform SIG and Nitin has agreed to work on this. Essentially a capability matrix for JX3, and Nitin's GSoD project has a large component of work focused on the JX capability matrix.
  - Ankit: Could work on having more diagrams on architecture using Mermaid.js
  - JR: Would be interesting to see what these look like. Important to have good looking diagrams.
  - Ankit: Working on EKS, and will add to the docs there
