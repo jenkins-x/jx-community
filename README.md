@@ -25,7 +25,7 @@ Find out more about our bi-weekly Office Hours, where we discuss all things Jenk
 
 **Discourse**
 
-Or ask questions about Jenkins X or post topics for discussion in [our Discourse forum](https://jenkinsx.discourse.group/). Join the [Jenkins X Discourse](https://jenkinsx.discourse.group/) forum to read answers to commonly asked questions and post additional questions.
+Or ask questions about Jenkins X and post topics for discussion in [our Discourse forum](https://jenkinsx.discourse.group/). Join the [Jenkins X Discourse](https://jenkinsx.discourse.group/) forum to read answers to commonly asked questions and post additional questions.
 
 ## Contributing
 
