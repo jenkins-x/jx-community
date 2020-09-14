@@ -4,6 +4,7 @@
 
 - [Logistics](#logistics)
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-09-14 Meeting](#september-14-2020)
   - [2020-09-07 Meeting](#september-7-2020)
   - [2020-08-24 Meeting](#august-24-2020)
   - [2020-08-17 Meeting](#august-17-2020)
@@ -32,6 +33,41 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### September 14, 2020
+
+#### Participants
+  - Kara de la Marck
+  - Nitin
+  - James Strachan
+  - James Rawlings
+  - Ankit
+
+#### Agenda and Notes
+ - Welcome Nitin 🎉 
+     - Official Start to GSoD is today!! 😃
+ - Go over action items from last week.
+     - Cloud resources for Nitin -- Good news. A cluster will be created for Nitin on GCP tomorrow. This is confirmed.
+     - Updates on Mermaid.js 
+         - Ankit: will summarise at next week's docs meeting.
+     - When next week should we meet for diagram brainstorm session?
+         - Ankit: Next week's docs SIG meeting
+ - Nitin priorities for GSoD:
+     - Go over JX 3 docs, see where needs more info, raise Issues, start to address
+     - JR: Matrix of capabilities for JX 3 and clarifying where not working. Similar to: https://www.jenkins.io/project/roadmap/
+     - Initial focus will be GCP. 
+     - Ankit: I can give some info on AWS etc
+     - Nitin: should we delete the FAQs on docs site?
+     - James S: Links might break if we delete the FAQs, so lets not delete for now.
+ - Project Boards, for Nitin and Ankit
+     - Ankit has one for his work in his own repo, which he will make public
+     - There is a [Jenkins X Documentation](https://github.com/orgs/jenkins-x/projects/5) project already in jx org, Nitin is welcome to take that over and make it his own for GSoD
+    
+
+#### Action Items
+ - Kara to boost Nitin's permissions within jx org, so that he can move issues around on the Jenkins X Documentation board.
+ - Next week's Docs SIG meeting will include architecture diagram brainstorm session. 
+ - Ankit to present information on Mermaid.js
 
 ### September 7, 2020
 
