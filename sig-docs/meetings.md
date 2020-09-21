@@ -4,6 +4,7 @@
 
 - [Logistics](#logistics)
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-09-21 Meeting](#september-21-2020)
   - [2020-09-14 Meeting](#september-14-2020)
   - [2020-09-07 Meeting](#september-7-2020)
   - [2020-08-24 Meeting](#august-24-2020)
@@ -34,6 +35,80 @@
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
+### September 21, 2020
+
+#### Participants
+  - Kara de la Marck
+  - Nitin
+  - James Strachan
+  - James Rawlings
+  - Ankit
+
+#### Agenda and Notes
+
+ - Nitin has been reading over the docs for JX 3
+ - Nitin would like to have AWS resources.
+     - JR: might be able to ask CDF
+     - Kara: might be able to get AWS resources from Jenkins project
+     - JR: CDF might be hosting all JX resources soon (fingers crossed)
+     - JS: Starting with a small AWS account with the CDF might be a good first step to shifting resource hosting to the CDF
+     - Kara: Actions items for this?
+     - JR: Would be good to find out what the CDF can do for Jenkins X project. Do we qualify for any help with resources.
+     - Kara: Should I ask Tracy? 
+     - JR: Yes, to start the conversation.
+     - JR: We are at the point to enable BDD testing with AWS and EKS
+- JR: Good that Nitin is rocking along.
+- Nitin: Was looking at maturity models and matrix. Seeing what other communities are doing.
+- JR: might be good to do a traffic light: red, yellow, green
+- Ankit demo on Mermaid.js
+    - PR up: https://github.com/jenkins-x/jx-docs/pull/3071
+    - Mermaid.js seems to be a well maintained, and well starred, project - which is good.
+    - JR: Great to have this. The diagrams are good for explaining and communicating. These, plus whimsical, are great.
+    - Ankit: I've showed the simpler things one can do with Mermaid.js, but there are more complex diagrams, etc.
+    - Ankit, JR: might be good for the maturity model
+    - Nitin: Can explore
+    - JR: Would be good to have something simple up for the maturity model, then can play with the different diagraming tools and see what works best.
+    - Ankit: Created issue listing possible tool choices: https://github.com/jenkins-x/jx-docs/issues/3040#issuecomment-696092463
+    - JR: Key thing is to communicate with end users
+    - Ankit: Mermaid.js has a playground: https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuXHRcdCIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In19
+    - Ankit: Plus Mermaid.js is completely open source.
+- Kara: Hacktoberfest? If going to engage just need to add the Hacktoberfest label to good first issues.
+    - JR: Great. Lets try and focus people on JX 3 for Hacktoberfest.
+    - Kara: Yay! How will we triage the issues?
+    - JR: TLS/DNS forward movement is important, but Kuberhealthly work might be a good place to enable new contributors.
+    - JS: Lets focus the new contributors in areas, new stuff, maybe a new git organisation for JX plugins. Moving all CLI plugins there.
+    - JS: Move people away from the traditional JX repository. The old one is too messy.
+    - JS: If we want new people to contribute to JX, should point them to the plugins.
+    - JR: We could create a new org. GH stars, though. 
+    - Discussion on changing jx repo over to JX 3
+    - JS: Lots of crusty issues on JX 2, which are outdated, won't be fixed, don't even want people putting their engery into them.
+    - JS: If looking at JX repo, new contributors would have no idea where the source code is.
+        - If focus people on plugins, smaller codebase, more focused, easier to wrap head around and start contributing.
+    - JS: For closing old issues, would love to be able to say, 'This is fixed in JX 3!' Want to wait for beta, then go through the issues, and mark and close the old JX 2 issues this way.
+    - JR: Would be great to say, We think this is fixed in JX 3, please try it out and give feedback.
+    - JR: Lifecycle bot is on JX repo, would be good to disable, as it would be better to comment that issue fixed in v3 rather than have the issue closed by some bot.
+    - JS: The message on issues will help people move to v 3. 
+    - JS: Do we have a tool to add issue labels across the repos?
+    - JR: I've had to do it by hand so far.
+    - Kara: org wide labels would be good.
+    - JS: Yes!
+    - JS: Will look at labelling 'Good First Issues' for plugins.
+    - Kara: will add Hacktoberfest issues
+    - JS: Will write a doc on creating a plugin
+    - Kara: Will write a blog post for Hacktoberfest, then leverage that through CDF so that they promote us as participating in Hacktoberfest
+    - JR: meeting on Friday for Triage?
+    - JS: We could do a back to back docs/triage next Monday.
+    - JS: Anyone know anyone at Digital Ocean? Would be great to have resources to test on Digital Ocean.
+    - JR: Might be able to ping the person we know at IBM cloud, possible to get resources.
+
+#### Action Items
+- Kara: Kick off the conversation with Tracy re resources from CDF
+- Nitin: to explore the tooling for the matrix: Whimsical or Mermaid.js. Think about having color.
+- JS: Will look at labelling 'Good First Issues' for plugins.
+- Kara: will add Hacktoberfest issues
+- JS: Will write a doc on creating a plugin
+- Kara: Will write a blog post for Hacktoberfest (linking to creating plugins doc and Hacktoberfest labels), then leverage that through CDF so that they promote us as participating in Hacktoberfest
+  
 ### September 14, 2020
 
 #### Participants
