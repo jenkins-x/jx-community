@@ -47,6 +47,11 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
 #### Agenda and Notes
 
  - Nitin has been reading over the docs for JX 3
+ - Recap of Nitin's work this week:
+    * [Submitted PR](https://github.com/jenkins-x/jx-docs/pull/3057) for having the copy button on Code snippet blocks in Jenkins X docs web pages. 
+    * (Ongoing): Working on validating the docs and technical steps for running JX v3 on GKE. [Issue](https://github.com/jenkins-x/jx-docs/issues/3062)
+    * (Ongoing): Designing the Maturity model / matrix on JX v3 for GKE platform. [Issue](https://github.com/jenkins-x/jx-docs/issues/3069)  
+    * Also, Nitin has assigned the [Issue](https://github.com/jenkins-x/jx-docs/issues/3044) to himself and closed [Issue](https://github.com/jenkins-x/jx-docs/issues/2953) and [Issue](https://github.com/jenkins-x/jx-docs/issues/2924).
  - Nitin would like to have AWS resources.
      - JR: might be able to ask CDF
      - Kara: might be able to get AWS resources from Jenkins project
