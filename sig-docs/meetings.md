@@ -1,8 +1,14 @@
 # Jenkins X Docs SIG Meetings
 
+## Logistics
+
+* Meeting notes on HackMD.io: https://hackmd.io/@jx-docs-sig/HJYAmMyjL
+* When: 16:30 UTC Mondays.
+* Meeting Link: https://meet.google.com/uyd-estx-ffz
+* Jenkins X Public Calendar: [here](https://jenkins-x.io/community/calendar/)
+
 ## Quick links
 
-- [Logistics](#logistics)
 - [Agenda and Notes](#agenda-and-notes)
   - [2020-09-21 Meeting](#september-21-2020)
   - [2020-09-14 Meeting](#september-14-2020)
@@ -24,16 +30,28 @@
   - [2020-05-18 Meeting](#may-18-2020)
  
   
-## Logistics
-
-* Meeting notes on HackMD.io: https://hackmd.io/@jx-docs-sig/HJYAmMyjL
-* When: 16:30 UTC Mondays.
-* Meeting Link: https://meet.google.com/uyd-estx-ffz
-* Jenkins X Public Calendar: [here](https://jenkins-x.io/community/calendar/)
-
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### September 28, 2020
+
+#### Participants
+  - Kara de la Marck
+  - Nitin
+  - James Strachan
+  - James Rawlings
+  - Ankit
+  - \<addme\>
+
+#### Agenda and Notes
+- \<addme\>
+
+#### Action Items
+- Go over action items from last week.
+    - jx org wide labels: https://github.com/organizations/jenkins-x/settings/repository-defaults
+    - Kara: contacted Tracy re cloud resources support and eventually hosting all JX resources. Yes, this is possible, Tracy is on it, knows that we are interested in AWS resources as a first step.
+- \<addme\>
 
 ### September 21, 2020
 
@@ -107,7 +125,7 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
     - JR: Might be able to ping the person we know at IBM cloud, possible to get resources.
 
 #### Action Items
-- Kara: Kick off the conversation with Tracy re resources from CDF
+- ~~Kara: Kick off the conversation with Tracy re resources from CDF~~
 - Nitin: to explore the tooling for the matrix: Whimsical or Mermaid.js. Think about having color.
 - JS: Will look at labelling 'Good First Issues' for plugins.
 - Kara: will add Hacktoberfest issues
@@ -145,7 +163,7 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
     
 
 #### Action Items
- - Kara to boost Nitin's permissions within jx org, so that he can move issues around on the Jenkins X Documentation board.
+ - ~~Kara to boost Nitin's permissions within jx org, so that he can move issues around on the Jenkins X Documentation board.~~
  - Next week's Docs SIG meeting will include architecture diagram brainstorm session. 
  - Ankit to present information on Mermaid.js
 
