@@ -3,7 +3,7 @@
 ## Logistics
 
 * Meeting notes on HackMD.io: https://hackmd.io/@jx-docs-sig/HJYAmMyjL
-* When: 16:30 UTC Mondays.
+* When: 15:30 UTC Mondays.
 * Meeting Link: https://meet.google.com/uyd-estx-ffz
 * Jenkins X Public Calendar: [here](https://jenkins-x.io/community/calendar/)
 
@@ -45,13 +45,48 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
   - \<addme\>
 
 #### Agenda and Notes
-- \<addme\>
-
-#### Action Items
 - Go over action items from last week.
     - jx org wide labels: https://github.com/organizations/jenkins-x/settings/repository-defaults
     - Kara: contacted Tracy re cloud resources support and eventually hosting all JX resources. Yes, this is possible, Tracy is on it, knows that we are interested in AWS resources as a first step.
-- \<addme\>
+- Nitin: https://github.com/jenkins-x/jx-docs/pull/3079
+- Nitin question on Open Shift:
+    - JS: Let's leave Open Shift 3 on the matrix. Just mention 4
+    - JR: Might be worth pointing out we won't ever support 3
+- Nitin question on clouds mentioned, should we mention Alibaba, IBM Cloud, etc?
+    - JR: Similar treatment to OS 3. Just want to be clear what isn't working. If people want to contribute they can do.
+    - JS: PKS (VM Ware Kubernetes), not supporting yet, but should be high up the list.
+    - JR: Digital Ocean
+    - JS: Yes, we could do a hacktoberfest shoutout for Digital Ocean support
+    - JR: More docs on contributing needed (and coming this week), to make it easier for people to contribute to the features/support they want to see.
+    - JS: Would be great to encourage vendours to contribute, by having them on the matrix, but not yet supported.
+- Nitin: question on Red, Orange, Green definitions:
+    - JR: We are not mapping Red, Orange, Green to Alpha, Beta, GA. These traffic light colours are for Alpha.
+    - JS: Might need two types of symbols.
+    - JR: Do we need a capability matrix for Apha, Beta, GA.
+    - JS: Depends on the matrix we are doing. For now, everything is alpha, because the entire matrix is for JX 3 Alpha.
+    - JS: Lets keep it simple. For the matrix, everything is in the category of Alpha (then all Beta, etc). The traffic light system is to show a delta.
+    - How to handle areas (ie, clouds, etc) that we have no intention of support at this stage, but would like to do so in the future?
+    - JR: Leave blank?
+    - K: use astrix, with key with info
+    - JS: And can have call to action, ie, call to contribution. So, if want to see this sooner, can contribute...
+    - Nitin: need to have difference between colours, astrix, etc
+    - Could have a colour for future items? JS: Purple or grey.
+- Nitin: will create a speadsheet with what we have discussed. Then will need help going over to ensure correct.
+- All: Sounds great!
+- JS: Would be nice to use matrix to build a roadmap
+- JS: We could also use a project board
+- Kara: Should we do triage session
+- JS: I've got [a magic query](https://github.com/issues?q=is%3Aopen+is%3Aissue+repo%3Ajenkins-x%2Fjx-cli+repo%3Ajenkins-x%2Fjx-admin+repo%3Ajenkins-x%2Fjx-application+repo%3Ajenkins-x%2Fjx-apps+repo%3Ajenkins-x%2Fjx-helpers+repo%3Ajenkins-x%2Fjx-git-operator+repo%3Ajenkins-x%2Fjx-gitops+repo%3Ajenkins-x%2Fjx-pipeline+repo%3Ajenkins-x%2Fjx-project+repo%3Ajenkins-x%2Fjx-promote+repo%3Ajenkins-x%2Fjx-secret+repo%3Ajenkins-x%2Fjx-verify+repo%3Ajenkins-x%2F%2Fjx-secret+repo%3Ajenkins-x%2Foctant-jx+) to find the issues on all the projects that are plugins.
+- JR: would be great to have the plugins org set up
+- JS: Could create a project, creating the basis, and then list issues to finish it off for hackatoberfest
+    - Getting people to test the go-scm code on different scm providers, etc
+
+#### Action Items
+
+- JS: Could create a plugin project, creating the basis, and then list issues to finish it off for hackatoberfest
+    - Getting people to test the go-scm code on different scm providers, etc
+    - Will provide about three meaty things for hacktoberfest people to work on.
+- Kara: org wide hacktoberfest issues would be good. Make sure hacktoberfest issue on all good first issues.
 
 ### September 21, 2020
 
@@ -125,12 +160,12 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
     - JR: Might be able to ping the person we know at IBM cloud, possible to get resources.
 
 #### Action Items
-- ~~Kara: Kick off the conversation with Tracy re resources from CDF~~
-- Nitin: to explore the tooling for the matrix: Whimsical or Mermaid.js. Think about having color.
+- ~~Kara: Kick off the conversation with Tracy re resources from CDF~~  ✅ 
+- Nitin: to explore the tooling for the matrix: Whimsical or Mermaid.js. Think about having color.  ✅ 
 - JS: Will look at labelling 'Good First Issues' for plugins.
-- Kara: will add Hacktoberfest issues
+- Kara: will add Hacktoberfest issues  ✅ 
 - JS: Will write a doc on creating a plugin
-- Kara: Will write a blog post for Hacktoberfest (linking to creating plugins doc and Hacktoberfest labels), then leverage that through CDF so that they promote us as participating in Hacktoberfest
+- Kara: Will write a blog post for Hacktoberfest (linking to creating plugins doc and Hacktoberfest labels), then leverage that through CDF so that they promote us as participating in Hacktoberfest  ✅ 
   
 ### September 14, 2020
 
