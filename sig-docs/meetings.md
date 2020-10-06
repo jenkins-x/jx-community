@@ -10,6 +10,8 @@
 ## Quick links
 
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-10-05 Meeting](#october-05-2020)
+  - [2020-09-28 Meeting](#september-28-2020)
   - [2020-09-21 Meeting](#september-21-2020)
   - [2020-09-14 Meeting](#september-14-2020)
   - [2020-09-07 Meeting](#september-7-2020)
@@ -34,6 +36,41 @@
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
+### October 5, 2020
+#### Participants
+ - Kara de la Marck
+ - Nitin
+ - James Strachan
+ - James Rawlings
+ - Ankit
+ - \<addme\>
+
+#### Agenda and Notes
+ - Ankit: https://github.com/jenkins-x/jx-docs/pull/3085
+ - Ankit: https://github.com/jenkins-x/jx-docs/pull/3083
+ - JS: Working on docs for Tekton catalogue++ -- will also demo at Office Hours tomorrow
+ - James R: We should have a few days in a week or two to create sreamlined docs version for JX 3.
+ - Nitin: Matrix update, almost done
+ - Nitin: have been spending time learning Terraform and going over JX 3 docs
+ - Going over hacktoberfest PRs:
+     - https://github.com/jenkins-x/jx-docs/pull/3083
+ - JR: Let's move the plugin repos to the new org after infrastructure update next week. 
+ - JS: Could do it before, as well. 
+ - JS, TODO: Could create a plugin project, creating the basis, and then list issues to finish it off for hackatoberfest
+    - Getting people to test the go-scm code on different scm providers, etc
+    - Will provide about three meaty things for hacktoberfest people to work on.
+- Kara to follow up again with Tracy re CDF support for an AWS cluster for Nitin
+- JR: Would be great for JX project to also have some resources on AWS, as well.
+- Kara: We should have a note in the docs, protecting beginners (and forgetful folks) to remember to tear down your clusters!
+
+#### Action Items
+
+- Kara: org wide hacktoberfest issues would be good. Make sure hacktoberfest issue on all good first issues.
+- Kara to follow up again with Tracy re CDF support for an AWS cluster for Nitin
+- JS: Could create a plugin project, creating the basis, and then list issues to finish it off for hackatoberfest
+    - Getting people to test the go-scm code on different scm providers, etc
+    - Will provide about three meaty things for hacktoberfest people to work on.
+    
 ### September 28, 2020
 
 #### Participants
