@@ -16,7 +16,7 @@
 
 The Chair of the SIG, with agreement from Members, will run operations and processes governing the SIG. He/she will also establish and decommission subprojects.
 
-Proposed Chair: TBD
+SIG Chair: Ankit Mohapatra
 
 Proposed Working Groups / Subprojects and respective leaders:
 * Season of Docs: [Kara de la Marck](https://github.com/MarckK)
