@@ -10,6 +10,7 @@
 ## Quick links
 
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-10-12 Meeting](#october-12-2020)
   - [2020-10-05 Meeting](#october-05-2020)
   - [2020-09-28 Meeting](#september-28-2020)
   - [2020-09-21 Meeting](#september-21-2020)
@@ -35,6 +36,69 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### October 12, 2020
+#### Participants
+ - Kara de la Marck
+ - Nitin
+ - James Strachan
+ - James Rawlings
+ - Ankit
+ - \<addme\>
+
+#### Agenda and Notes
+ - Go over action items.
+     - Kara hacktoberfest is a jx org wide label, but doesn't always show as available on all repos  ¯\_(ツ)_/¯ 
+     - Consequently, have added the label to a number of jx repos
+     - Have asked again at CDF for AWS resources for Nitin.
+     - Issue about magnifying images: https://github.com/jenkins-x/jx-docs/issues/3089
+     - Nitin: will have a look and see how this is done. Might implement.
+     - Thoughts abt this: https://github.com/jenkins-x/jx-docs/issues/2935 (Not a bad thing to add imo)
+         - JR: Might be useful on v 3 further along. Want to be feature complete with v3 and then more testing and then extend the guides, etc.
+  - Ankit is Chair of Docs SIG  🎉
+      - Apologies that I haven't done this yet: https://github.com/jenkins-x/jx-community/pull/14
+ - Nitin: Updates. 
+     - Second Matrix for future platforms is up
+     - JX cluster on GKE is accomplished. Followed readme for Readme Terraform/GKE -- all correct
+     - Will put PR for GCloud credentials
+     - Next steps?
+     - BDD tests? 
+     - JR: Really great if we had more guides on creating quickstarts, how to get logs, do a promotion, etc.
+         - Keeping it simple to start, and then build a library of guides
+         - Nitin: OK, will build 
+  - Let's respond to this: https://github.com/jenkins-x/jx-docs/pull/3083
+      - Ankit has replied, encouraging focus on v 3
+      - JR: we are going to be revamping v3 site. Given this until it settles down, maybe 
+ - Nitin: questions on issues to work on:
+     - https://github.com/jenkins-x/jx/issues/6659
+    - Ankit: this is a good issue to address
+    - https://github.com/jenkins-x/jx/issues/6565
+    - Ankit: related - what about JFrog Artifactory support?
+        - JR: the way v 3 is architected, plugins and how to use them for this would needs to be documented.
+            - Ankit: I can pick that up, especially for JFrog, can write the guide.
+    - https://github.com/jenkins-x/jx/issues/6563
+        - JR: valid, once v3 working, we can start going through these issues.
+        - JR: next week, would be great to do design session for v3 docs. So not just about untangling from v2 docs
+        - Next docs sig meeting is design session.
+    - https://github.com/jenkins-x/jx/issues/6565
+        - Ankit, JR: very v 2 focused. Leave to the side for now.
+        - Nitin: can we close issue?
+        - JR: can soon start responding that we will be working on v3 docs over coming weeks.
+        - This can start being announced over the next few weeks (not yet)
+        - JR: when approaching beta for v3, can close saying addressed by v3, will be this asap when v3 beta
+    - Nitin: conclusion that I don't need to focus on these issues. We wait until v3 to reply that should be solved by v3, for now leave to side.
+    - JR: by end of week should have docs and even blog on kuberhealthy.
+    - JS: tomorrow will be writing some docs. Loads of additions due to bug fixes.
+
+#### Action Items
+ - Ankit: Will pick up: https://github.com/jenkins-x/jx/issues/6547
+ - Ankit: guide for supporting/using JFrog Artifactory
+ - Kara: push on getting AWS resources for Nitin
+ - JR: docs and blog on kuberhealthy
+ - JS: docs additions
+ - Ankit: might help more with the hacktoberfest volunteers, give help as needed.
+ - \<addme\>
+
 
 ### October 5, 2020
 #### Participants
