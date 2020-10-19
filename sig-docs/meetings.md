@@ -55,7 +55,11 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
          - suggestion to improve subheadings, and heading on docs
     - JR: Go over website with fresh eyes
     - [Outline of v3 docs](https://docs.google.com/document/d/1d07vrnCare-ZcHBT3TSSrIr9WgZXTfA5d_vtWl1M-HE/edit).
-    - 
+    - For posterity: Sites we were looking at for ideas:
+        - https://grafana.com/docs/grafana/latest/
+        - https://www.pulumi.com/docs/
+        - https://istio.io/latest/docs/
+     
 #### Action Items
  - All: go over and add to [Outline of v3 docs](https://docs.google.com/document/d/1d07vrnCare-ZcHBT3TSSrIr9WgZXTfA5d_vtWl1M-HE/edit).
  - Ankit: create spike of branch for docs for v3
