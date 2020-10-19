@@ -10,6 +10,7 @@
 ## Quick links
 
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-10-19 Meeting](#october-19-2020)
   - [2020-10-12 Meeting](#october-12-2020)
   - [2020-10-05 Meeting](#october-05-2020)
   - [2020-09-28 Meeting](#september-28-2020)
@@ -36,6 +37,30 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### October 19, 2020
+#### Participants
+ - Kara de la Marck
+ - Nitin
+ - James Strachan
+ - James Rawlings
+ - Ankit
+ - \<addme\>
+
+#### Agenda and Notes
+ - Go over action items.
+     - Kara: followed up with CDF, last week and today. Same answer: in principle yes, but don't have the resources yet. 
+     - Nitin updates:
+         - questions on which guides to focus on .
+         - suggestion to improve subheadings, and heading on docs
+    - JR: Go over website with fresh eyes
+    - [Outline of v3 docs](https://docs.google.com/document/d/1d07vrnCare-ZcHBT3TSSrIr9WgZXTfA5d_vtWl1M-HE/edit).
+    - 
+#### Action Items
+ - All: go over and add to [Outline of v3 docs](https://docs.google.com/document/d/1d07vrnCare-ZcHBT3TSSrIr9WgZXTfA5d_vtWl1M-HE/edit).
+ - Ankit: create spike of branch for docs for v3
+ - Kara: hmm, now opportunity to propose request for AWS resources to CDF ToC. This is a process, so we shouldn't expect the resources to be available from the CDF soon (if ever).
+
 
 ### October 12, 2020
 #### Participants
