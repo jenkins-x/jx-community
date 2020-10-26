@@ -27,7 +27,7 @@ Proposed Working Groups / Subprojects and respective leaders:
 Membership to the SIG is open and we welcome new members to join!
 
 ## Meetings
-* Docs SIG meets at 16:30 UTC on Mondays (*See your timezone [here](https://time.is/1630_in_UTC)*)
+* Docs SIG meets at 15:30 UTC on Mondays (*See your timezone [here](https://time.is/1530_in_UTC)*)
 * See [Jenkins X calendar](https://jenkins-x.io/community/calendar/) for more information and to add the meeting to your calendar.
 * [Meeting notes here](meetings.md)
 
