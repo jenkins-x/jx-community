@@ -10,6 +10,7 @@
 ## Quick links
 
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-10-26 Meeting](#october-26-2020)
   - [2020-10-19 Meeting](#october-19-2020)
   - [2020-10-12 Meeting](#october-12-2020)
   - [2020-10-05 Meeting](#october-05-2020)
@@ -37,6 +38,52 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### October 26, 2020
+#### Participants
+ - Kara de la Marck
+ - Nitin
+ - James Strachan
+ - \<addme\>
+
+#### Agenda and Notes
+ - Go over action items.
+ - Kara's action item was to request resources from CDF ToC. The ToC meets tomorrow. From a number of separate conversations: 
+     - 1) The budget/expense that is being allocated to Nitin's GCP cluster can be reallocated to AWS. So, at any point Nitin would like to focus on AWS, then we shut down Nitin's GCP cluster and create one on AWS. This is fine to do, but a bit of a palaver (ie, I am not the person who does it). But, should be wish Nitin to switch focus onto AWS it is possible to reconfigure resource allocation to enable that.
+     - 2) The request to the ToC should be a preliminary request on the path to having the CDF host most Jenkins X resources. In which case, I need to have a precise request for the ToC -- would be great to create an outline of that. Again, note, this is a process, so we are entirely unsure what the timeline for response from CDF will be, but good to start the process
+- Kara: sonarcloud bot looks nice!
+- Kara: proposal to move this meeting back one hour in time, so it continues to track 15:30 UTC.
+- All: agreed on moving meeting time back to 15:30 UTC
+- Nitin: 
+    - Discuss Issue https://github.com/jenkins-x/jx-docs/issues/2965. Can we close this? as we now have AKS mentioned in the maturity matrix.
+    - Closed
+    - Discuss Issue https://github.com/jenkins-x/jx-docs/issues/2952. Do we need to document about the type of default VMs supported for GKE?
+- Kara: been thinking about our outreach, in terms of what docs are needed, but also more. What do we think about starting an end-user committee or advisory board? 
+- Nitin: BDD tests to run in a cluster?
+- JS: yes, https://github.com/jenkins-x-charts/jx-bdd
+- Note, installs helm chart, which runs a job, which runs BDD tests in your cluster, which runs a quickstart and checks the pipelines and PR process etc. The test will show failure, but that is a false negative, and that glitch is being fixed.
+- JS: polishing it so easier, also to automatically remove the quickstart. Now have to manually delete.
+- But a good way to double check your cluster works.
+- Ideally, the BDD test will report upstream, so we can start having more information on what is failing and why.
+- JS: actual tests are here: https://github.com/jenkins-x/bdd-jx
+- The BDD go-tests are compiled and packaged, so faster to run.
+- Nitin: have been working on testing some of the guides on testsing, storage, etc
+    - Should I create a new guide?
+    - JS: we have an early version of the health page. Those would be good pages to check with new eyes.
+    - Ideally, health page should be uber guide for installing all necessary parts for Jenkins X
+    - First iteration of health is just telling users when things are broken.
+    - Soon, we would be good to integrate recommendations into health checks.
+    - Guide people to a healthy path. 
+    - Help guide people where to look next for improving their own situation. Can guide people to other pages in our docs and elsewhere.
+    - For every check we can have a page in the website that describes that thing.
+    - Can have specific docs for specific problems that can be linked to from health checks
+ - Nitin: Rather than link to a page in the docs, could be link to a discourse topics.
+ - JS: Yes, makes sense. The links can be to anywhere.
+ - JS: Would be great to have regular questions on slack, etc, to be health checks. To almost automate the support of Jenkins X to Jenkins X 
+
+
+### Action Items
+ - All: go over and add to [Outline of v3 docs](https://docs.google.com/document/d/1d07vrnCare-ZcHBT3TSSrIr9WgZXTfA5d_vtWl1M-HE/edit).
 
 ### October 19, 2020
 #### Participants
