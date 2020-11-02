@@ -10,6 +10,7 @@
 ## Quick links
 
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-11-02 Meeting](#november-2-2020)
   - [2020-10-26 Meeting](#october-26-2020)
   - [2020-10-19 Meeting](#october-19-2020)
   - [2020-10-12 Meeting](#october-12-2020)
@@ -38,6 +39,38 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### November 2, 2020
+#### Participants
+ - Kara de la Marck
+ - Nitin
+ - Ankit
+ - James Strachan
+ - James Rawlings
+ - \<addme\>
+
+#### Agenda and Notes
+ - Go over action items.
+ - JX v3 docs looking good 😃 
+ - Ankit: https://github.com/jenkins-x/jx-docs/pull/3114 🎉
+     - Also, this issue on versioning:  https://github.com/google/docsy/issues/114#issuecomment-516592637
+     - Versioning with Docsy/Hugo not entirely straight forward.
+     - JS: Should be have separate repos for v2 and v3 and just have a build script to bring them together
+     - Ankit: let me try the branch approach for the different versions for a day, to try
+     - Ankit: When have multiple versions of docs, over time branching will be better and easier to maintain.
+     - JS: True. If that works, then awesome. Else, we can have different repos.
+ - Kara: Discuss https://github.com/jenkins-x/jx-docs/issues/3116
+ - JS: Does seem strict for docs
+ - Ankit: we could add in a note to Issue creation templates
+ - Kara: Which is a nice solution. Certainly should do it for sigining commits. If keep Semantic PRs, should add in a note for that as well.
+ - Ankit: template for PRs could be added, can add information.
+ - JS: Semantic PRs is excessive for docs. Let's take that out.
+ - Kara: Then we can add the signing info to the template.
+
+### Action Items
+- Ankit: Will work on versioning of docs. Will try the branch approach for the different versions, see if it works.
+- Take down Semantic PRs requirement for docs.
+- Add info to docs PR template on signing commits.
 
 ### October 26, 2020
 #### Participants
