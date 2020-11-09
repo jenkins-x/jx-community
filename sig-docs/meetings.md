@@ -10,6 +10,7 @@
 ## Quick links
 
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-11-09 Meeting](#november-9-2020)
   - [2020-11-02 Meeting](#november-2-2020)
   - [2020-10-26 Meeting](#october-26-2020)
   - [2020-10-19 Meeting](#october-19-2020)
@@ -40,6 +41,40 @@
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
+### November 9, 2020
+#### Participants
+ - Kara de la Marck
+ - Nitin
+ - Ankit
+ - James Rawlings
+
+#### Agenda and Notes
+ - Go over action items.
+ - Discussion of:
+     - Take down Semantic PRs requirement for docs -- Nitin may be working on template, as Semantic PRs are nice. But is a lot of work for changing docs.
+     - Ankit: We can try with the template for a bit to see if it works, but if new commiters still struggling then just take off that requirement.
+     - Nitin: will remove the requirement for Semantic PRs and add template info for signing.
+     - JR: I can take down the requirement for Semantic PRs. 
+     - JR: Just looked at it and it is configured for the org, that's why we have it. Will rework that configuration to make it repo based.
+     - Add info to docs PR template on signing commits -- 
+     - Nitin & Kara: Yes, very important. 
+     - Ankit: would love the health check for AWS. Can add it today. (yay!)
+     - JS: zooming on JX 3 docs
+     - Kara: would be great to have another small project for Nitin who has 4 weeks left in Google Season of Docs.
+     - JS: Would be great this week to think about and prepare for a project to decide on next week.
+     - JS: next Monday would be great to do a structural review of the JX3 docs and think of a good project
+     - Nitin: good, I'll keep reviewing the guides over the next week.
+     - Nitin: Can also help Ankit out on docs versioning.
+
+### Action Items
+ - Nitin: will remove the requirement for Semantic PRs (or JR) and add template info for signing.
+ - Ankit working on PR for versioning. Needs logs!
+ - Kara to get logs.
+ - Nitin: will run BDD tests (to test). After this will need to switch to AWS cluster. Will ping Kara on slack and Kara to communicate the switch with Mark.
+ - Nitin: kuberhealthy, will check it out.
+ - Ankit: would love the health check for AWS. Can add it today. (yay!)
+
+    
 ### November 2, 2020
 #### Participants
  - Kara de la Marck
