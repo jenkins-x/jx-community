@@ -10,6 +10,7 @@
 ## Quick links
 
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-11-23 Meeting](#november-23-2020)
   - [2020-11-16 Meeting](#november-16-2020)
   - [2020-11-09 Meeting](#november-9-2020)
   - [2020-11-02 Meeting](#november-2-2020)
@@ -42,6 +43,20 @@
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
+### November 23, 2020
+#### Participants
+ - Kara de la Marck
+ - Nitin
+ - James Strachan
+ - James Rawlings
+
+#### Agenda and Notes
+ - Go over action items.
+ - [Pull Request template mentioning the instructions / requirements for submitting the PR.](https://github.com/jenkins-x/jx-docs/issues/3116) This will enable the submitter to notice the instructions and follow before submitting the PR for review.
+
+### Action Items
+ - 
+
 ### November 16, 2020
 #### Participants
  - Kara de la Marck
@@ -56,12 +71,12 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
      - Nitin: JR looked into removing the requirement for semantic PRs per repo and it is a PITA. We will leave as is for now.
      - Nitin: Other action item was to run BDD tests and health check guide, still needs to be done.
      - Nitin: Would like the AWS cluster from Thursday morning. Will have tried out the BDD tests by then.
-    - JR: we are looking forward to introducing the Beta next week. Docs need to be improved.
-    - JR: One sub project for Nitin could be to help get the V3 docs branch up. Reach out to Ankit.
-    - Kara: So, what needs to be done is reach out to Ankit to see what would be most helpful.
-    - JR: We also need to know the timeline. If it takes 3 weeks to get the docs versioning done, we shouldn't wait three weeks.
-    - Nitin: also, we've talked about redoing the home page for v3
-    - JR: the front page isn't too bad. More restructuring of the others. A demo on the main page would be good. But front page doesn't need too much.
+- JR: we are looking forward to introducing the Beta next week. Docs need to be improved.
+- JR: One sub project for Nitin could be to help get the V3 docs branch up. Reach out to Ankit.
+- Kara: So, what needs to be done is reach out to Ankit to see what would be most helpful.
+- JR: We also need to know the timeline. If it takes 3 weeks to get the docs versioning done, we shouldn't wait three weeks.
+- Nitin: also, we've talked about redoing the home page for v3
+- JR: the front page isn't too bad. More restructuring of the others. A demo on the main page would be good. But front page doesn't need too much.
 
 ### Action Items
  - Nitin + Kara: follow up with Ankit on what may be needed for v3 docs.
