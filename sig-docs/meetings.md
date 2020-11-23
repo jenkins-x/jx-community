@@ -49,13 +49,24 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
  - Nitin
  - James Strachan
  - James Rawlings
+ - Ankit
 
 #### Agenda and Notes
  - Go over action items.
  - [Pull Request template mentioning the instructions / requirements for submitting the PR.](https://github.com/jenkins-x/jx-docs/issues/3116) This will enable the submitter to notice the instructions and follow before submitting the PR for review.
+ - Kara: Have followed up with Mark and he should get Nitin his AWS cluster today.
+ - Ankit: https://github.com/jenkins-x/jx-docs/pull/3145
+ - Whoohoo, Docs versioning looks great! Thank you, Ankit!
+ - Ankit: I will work on putting banners to clarify the versioning.
+ - JR: Would be great to have a banner to say 'this is beta', should be the case in a week or so. And to have a banner in v2 docs to point to the v3 beta.
+ - Nitin: Discuss overview of looking at kuberhealthy and BDD tests.
+     - Questions on the need for sudo user
+     - will try again to run BDD tests
+ - HTML proofer issues, temporary, and then outstanding PRs can be merged.
+ - Ankit: looking at the docs site on smaller screens shows all sorts of errors, will have a look at it after versioning work done.
 
 ### Action Items
- - 
+ - Kara: ensure Nitin gets an AWS cluster! :)
 
 ### November 16, 2020
 #### Participants
