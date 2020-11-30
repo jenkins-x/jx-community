@@ -10,6 +10,7 @@
 ## Quick links
 
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-11-30 Meeting](#november-30-2020)
   - [2020-11-23 Meeting](#november-23-2020)
   - [2020-11-16 Meeting](#november-16-2020)
   - [2020-11-09 Meeting](#november-9-2020)
@@ -42,6 +43,34 @@
 ## Agenda and Notes
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
+
+### November 30, 2020
+#### Participants
+ - Kara de la Marck
+ - Nitin
+ - James Strachan
+ - Ankit
+
+#### Agenda and Notes
+ - Go over action items.
+ - Nitin updates: AWS woohoo!
+     - Going over AWS guides
+     - Question on JX on GKE, issue with boot pod
+ - JS: one of the hard things in K8s is that if a pod doesn't start, hard to find out why. No kubectl command to run. JX health plugin should 
+ - JS: also showed how you can use Octant to debug pod failures. 
+ - Note: Octant runs locally and so is not on the public internet. It shows what you can see with kubectl. There is nothing on the internet. This is all local to your machine, so no additional security concerns.
+ - Nitin: may have lost permissions on jx-docs repo.
+ - Kara: will look into
+ - Ankit: nice PR on banner on the 2 docs versions: https://github.com/jenkins-x/jx-docs/blob/0388830af7eaa1a34f57dee1560218c4f3ba1ba4/layouts/docs/single.html
+ - Some questions on wording. Don't want to tell people to not use v2, just need to be careful with messaging
+ - JS: Also, timing will solve some of this. When we release beta, then add banner.
+ - Ankit: as for wording, please add to comments on PR, because he will add in the decided wording.
+ - Ankit: still mentoring one Hacktoberfest PR, the individual has continued working on the PR, needs a bit of guidance, but should get done.
+
+### Action Items
+- Nitin: this week will be testing AWS guides and will run BDD tests on GKE.
+- Kara: will look into Nitin having permissions on docs repo
+ => checked and Nitin has Write permission on the repository.
 
 ### November 23, 2020
 #### Participants
