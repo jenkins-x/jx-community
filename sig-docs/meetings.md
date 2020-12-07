@@ -10,6 +10,7 @@
 ## Quick links
 
 - [Agenda and Notes](#agenda-and-notes)
+  - [2020-12-07 Meeting](#december-7-2020)
   - [2020-11-30 Meeting](#november-30-2020)
   - [2020-11-23 Meeting](#november-23-2020)
   - [2020-11-16 Meeting](#november-16-2020)
@@ -44,6 +45,33 @@
 
 Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/HJYAmMyjL) where everyone can add new topics to the agenda for upcoming meetings or take notes during the meetings. Please click edit button to edit the document.
 
+### December 07, 2020
+#### Participants
+ - Kara de la Marck
+ - James Rawlings
+ - Ankit
+
+#### Agenda and Notes
+ - Go over action items.
+    -  Nitin set with permissions
+-  Beta releasing today/tomorrow!!
+-  Ankit: working on nginx update
+-  Ankit: banner work for docs is done can be merged as soon as beta released
+-  JR: last few PRS for beta going in -- yay!
+-  Beta 'dry launch' tomorrow.
+-  Then both Jameses off for 3 weeks.
+-  Jenkins X wrap-up party / thank you to everyone will be Thursday or so this week.
+-  LTS now available: https://github.com/jenkins-x/jx3-lts-versions
+-  This will be our last docs sig meeting of 2020.
+-  When Beta is in would be great if Nitin can update the maturity matrix diagram :)
+-  Ankit: once we go beta / GA we should have a page or section showing logos of companies/projects using Jenkins X in production.
+-  JR: Yes
+-  Kara: CDF wrap-up information?  
+    -  JR: Yes, all set for January due date.
+    
+### Action Items
+ - Jenkins X end of year / thank you party on Thursday this week.
+ 
 ### November 30, 2020
 #### Participants
  - Kara de la Marck
@@ -56,7 +84,8 @@ Meeting agenda and notes are kept on [HackMD.io](https://hackmd.io/@jx-docs-sig/
  - Nitin updates: AWS woohoo!
      - Going over AWS guides
      - Question on JX on GKE, issue with boot pod
- - JS: one of the hard things in K8s is that if a pod doesn't start, hard to find out why. No kubectl command to run. JX health plugin should 
+ - JS: one of the hard things in K8s is that if a pod doesn't start, hard to find out why. No kubectl command to run. JX health plugin should help.
+ - 
  - JS: also showed how you can use Octant to debug pod failures. 
  - Note: Octant runs locally and so is not on the public internet. It shows what you can see with kubectl. There is nothing on the internet. This is all local to your machine, so no additional security concerns.
  - Nitin: may have lost permissions on jx-docs repo.
