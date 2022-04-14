@@ -11,19 +11,19 @@ This repo contains information on joining and contributing to the Jenkins X comm
 
 We’d love to talk with you about Jenkins X and are happy to help if you have any questions.
 
-**Slack**
+### Slack
 
 Talk to us on our slack channels, which are part of the Kubernetes slack. Join Kubernetes slack [here](https://slack.k8s.io/) and find us on our channels:
 
-* [#jenkins-x-user](https://app.slack.com/client/T09NY5SBT/C9MBGQJRH) for users of Jenkins X
+- [#jenkins-x-user](https://app.slack.com/client/T09NY5SBT/C9MBGQJRH) for users of Jenkins X
 
-* [#jenkins-x-dev](https://app.slack.com/client/T09NY5SBT/C9LTHT2BB) for developers of Jenkins X
+- [#jenkins-x-dev](https://app.slack.com/client/T09NY5SBT/C9LTHT2BB) for developers of Jenkins X
 
-**Office Hours**
+### Office Hours
 
 Find out more about our bi-weekly Office Hours, where we discuss all things Jenkins X, and other events [here](https://jenkins-x.io/community/).
 
-**Discourse**
+### Discourse
 
 Ask questions about Jenkins X or post topics for discussion in [our Discourse forum](https://jenkinsx.discourse.group/). Join the [Jenkins X Discourse](https://jenkinsx.discourse.group/) forum to read answers to commonly asked questions and post additional questions.
 
@@ -31,42 +31,38 @@ Ask questions about Jenkins X or post topics for discussion in [our Discourse fo
 
 Please see our guides on:
 
-* [Contributing Documentation](https://jenkins-x.io/community/documentation/)
+- [Contributing Documentation](https://jenkins-x.io/community/documentation/)
 
-* [Contributing Code](https://jenkins-x.io/community/code/)
+- [Contributing Code](https://jenkins-x.io/community/code/)
 
-
-We are aiming to increasingly coordinate and organise work on Jenkins X within SIGs. 
+We are aiming to increasingly coordinate and organise work on Jenkins X within SIGs.
 These SIGs will be the go to point of contact for contributing to Jenkins X in their respective areas.
-
 
 ## Special Interest Groups (SIGs)
 
 **Special Interest Groups (SIGs)** are persistent open groups that focus on a part of the project.
 
-### SIG Guidelines:
+### SIG Guidelines
 
-* SIGs must have open and transparent proceedings. Work and collaboration should be done in public. 
+- SIGs must have open and transparent proceedings. Work and collaboration should be done in public.
 
-* Anyone is welcome to participate and contribute provided they follow our Code of Conduct.
+- Anyone is welcome to participate and contribute provided they follow our Code of Conduct.
 
-A SIG should describe its focus and purpose in a `README` file in the SIG folder in this repo (e.g. [sig-docs/README.md](sig-docs/README.md)). 
+A SIG should describe its focus and purpose in a `README` file in the SIG folder in this repo (e.g. [sig-docs/README.md](sig-docs/README.md)).
 Additionally, the `README`should include information on communication and meeting logistics.
 
 ## Proposing a new SIG
 
 We welcome proposals for new SIGs. 🎉
 
-Proposals for new SIGs can be made via a [PR](https://github.com/jenkins-x/jx-community/pulls) on this jx-community directory, for discussion and feedback. 
+Proposals for new SIGs can be made via a [PR](https://github.com/jenkins-x/jx-community/pulls) on this jx-community directory, for discussion and feedback.
 
-Please create directory for the new SIG in this jx-community directory with a `README` providing information about the SIG's focus, goals, membership, and meeting logistics. 
+Please create directory for the new SIG in this jx-community directory with a `README` providing information about the SIG's focus, goals, membership, and meeting logistics.
 
 Add your proposal, and a link to your PR, to our [Jenkins X Office Hours meeting notes](https://docs.google.com/document/d/1wHdBlZAN-ndPELuBoM5HBnYiQLvcz92-euXne2mKOEI/edit#)
-as an agenda item to discuss at the next Office Hours. 
+as an agenda item to discuss at the next Office Hours.
 Discussion during the Jenkins X Office Hours is a great way to gather further feedback and support and attract additional collaborators.
-
 
 ## Current SIGs
 
-* [Docs](sig-docs/)
-* [Testing and Platform Integration](sig-testing-and-platform-integration)
+- [UI](sig-ui/)
