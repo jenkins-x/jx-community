@@ -28,6 +28,7 @@ Current members
 - Rajat Gupta
 - Sanyam Agarwal
 - Tom Hobson
+- Osama Magdy
 
 ## Meetings
 
