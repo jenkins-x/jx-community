@@ -25,6 +25,7 @@ Current members
 - Ankit D Mohapatra
 - Animesh Das
 - Christoffer Vig
+- Osama Magdy
 - Rajat Gupta
 - Sanyam Agarwal
 - Tom Hobson
