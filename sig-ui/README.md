@@ -32,7 +32,10 @@ Current members
 
 ## Meetings
 
-TBD
+- Docs SIG meets at 15:30 UTC on Mondays (See your timezone here)
+- See Jenkins X calendar for more information and to add the meeting to your calendar.
+- [Meeting notes](meetings.md) here
+
 
 ### Schedule and Cadence
 
