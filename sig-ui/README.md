@@ -33,7 +33,7 @@ Current members
 
 ## Meetings
 
-- Docs SIG meets at 15:30 UTC on Mondays (See your timezone here)
+- Docs SIG meets at 15:30 UTC on Mondays ([See your timezone here](https://www.worldtimebuddy.com/?qm=1&lid=1273294,2643743,4930956,100&h=2643743&date=2022-4-22&sln=13-14&hf=1))
 - See Jenkins X calendar for more information and to add the meeting to your calendar.
 - [Meeting notes](meetings.md) here
 
