@@ -1,6 +1,5 @@
 # Technical Oversight Committee (TOC)
 
-
 ## Initial Bootstrap Committee
 
 The Initial bootstrap committee had to be replaced by a new bootstrap committee.
@@ -10,7 +9,7 @@ This bootstrap committee should be replaced by an elected Jenkins X TOC in the f
 
 | Name | Profile | Affiliation |
 | ---- | ------- | ----------- |
-| Ankit Muhaptra | [@ankitm123](https://github.com/ankitm123) | Independent |
+| Ankit Muhaptra | [@ankitm123](https://github.com/ankitm123) |  Berkshire Grey |
 | Christoffer Vig | [@babadofar](https://github.com/babadofar) | CoWork.no |
 | James Rawlings | [@rawlingsj](https://github.com/rawlingsj) | VMware |
 | Mårten Svantesson | [@msvticket](https://github.com/msvticket) | Ticket.se |
@@ -26,7 +25,6 @@ This bootstrap committee should be replaced by an elected Jenkins X TOC in the f
 | Pete Muir | [@pmuir](https://github.com/pmuir) | CloudBees |
 | Mauricio Salatino | [@salaboy](https://github.com/Salaboy) | Camunda/LearnK8s |
 
-
 ## Initial Tasks for the TOC
 These tasks were discussed during the Jenkins X Community Summit in Austin, June 9 2022
 The TOC should 
@@ -38,15 +36,10 @@ The TOC should
 - Should have Maintainers + representatives from the end user community
 - The TOC needs to handle all points listed under the "Initial charter" section below
  
-
-
-
-
 ## Meetings
 
 ### Schedule and Cadence
 Biweekly meeting, anyone can join
-
 
 [Previous Committee Meeting notes](https://docs.google.com/document/d/1ZuMQxm4mYJP1x2vhZI6CgCxiLWWw6N6Um1bErKP1seE/edit#).
 
@@ -84,4 +77,3 @@ A charter should cover all of the following topics:
  * Organize the transition to an elected TOC so that not all members change out at once
   * Possibly stagger the terms of the bootstrap committee members (ie, the first election would be for 3 committee members, the next election would be held to replace the remaining 2 original bootstrap committee members)
  * Provide documentation to enable the established practices of the committee to continue 
-
