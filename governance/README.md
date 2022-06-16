@@ -1,4 +1,5 @@
-# Governance
+# Technical Oversight Committee (TOC)
+
 
 ## Initial Bootstrap Committee
 
@@ -26,15 +27,26 @@ This bootstrap committee should be replaced by an elected Jenkins X steering com
 | Mauricio Salatino | [@salaboy](https://github.com/Salaboy) | Camunda/LearnK8s |
 
 
+## Initial Tasks for the TOC
+These tasks were discussed during the Jenkins X Community Summit in Austin, June 9 2022
+The TOC should 
+- Coordinate with [CDF TOC](https://github.com/cdfoundation/toc), and pick a representative to the CDF TOC
+- Pick maintainers from regular contributors, using some predefined rules  and regulations
+- Handle costs and budgets - Do we need a finance team for this in the future?
+- Elect chairman and referee for the TOC (use bot for random selection each time?)
+- Set up LF open collective if someone wants to donate to Jenkins X maintainers
+- Should have Maintainers + representatives from the end user community
+- The TOC needs to handle all points listed under the "Initial charter" section below
+ 
+
+
 
 
 ## Meetings
 
 ### Schedule and Cadence
+Biweekly meeting, anyone can join
 
-Regular steering committee meetings will be held, at least once per month. 
-
-The entire steering committee is generally expected to attend every meeting, but quorum is met with 3/5 attendance.
 
 [Previous Committee Meeting notes](https://docs.google.com/document/d/1ZuMQxm4mYJP1x2vhZI6CgCxiLWWw6N6Um1bErKP1seE/edit#).
 
@@ -72,3 +84,4 @@ A charter should cover all of the following topics:
  * Organize the transition to an elected steering committee so that not all members change out at once
   * Possibly stagger the terms of the bootstrap committee members (ie, the first election would be for 3 committee members, the next election would be held to replace the remaining 2 original bootstrap committee members)
  * Provide documentation to enable the established practices of the committee to continue 
+
