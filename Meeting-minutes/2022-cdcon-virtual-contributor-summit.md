@@ -120,32 +120,28 @@ Responsibilbities of the TOC:
 
 **Be Bold**
 
-- Jenkins X has two main use scenarios 
-  -  The beginner who wants to learn about k8s. 
-  -  The enterprise who needs security and stability. We need to strengthen in both end
+- Jenkins X has two main use scenarios
+  - The beginner who wants to learn about k8s.
+  - The enterprise who needs security and stability. We need to strengthen in both end
 - We should reach out to the broader CDF community to understand what best practices are.
-- Sponsors could pay to implement features they need 
+- Sponsors could pay to implement features they need
 - Should announce to the community/customers/end-users when we need to test features
-- Multi tenancy was designed and discussed for Jenkins X v2. There should be some documents and designs on this somewhere (Terry) 
-- We should reach out to the various Cloud providers to have them contribute best practice for   install kubernetes on their platform.  
+- Multi tenancy was designed and discussed for Jenkins X v2. There should be some documents and designs on this somewhere (Terry)
+- We should reach out to the various Cloud providers to have them contribute best practice for install kubernetes on their platform.
 - We must allow for large enterprises to install Jenkins X on their own enterprise certified installation
 - We need a reliable release process, tagging versions sensibly
 - What is Jenkins X as a **product** - what is the path to market
 - Having a vision of the product will help create a strategy for future direction
 - We can reach out to CDF for help on marketing, productification for open source
 - cooperate with CDF best practices - make sure we check off all requirements for best practice CI/CD
-- Documentation needs ramp up 
+- Documentation needs ramp up
   - Tutorials for beginners
-  - Types of docs should be marked and distinguished with their kind 
-     - architecture 
-     - for beginners 
-     - how-to 
-     - reference etc. 
+  - Types of docs should be marked and distinguished with their kind
+    - architecture
+    - for beginners
+    - how-to
+    - reference etc.
   - Architecture docs neeed to be in sync with code. There are tools out there that can help, ARchUnit jQassistant (Gerd)
   - A lot of prior knowledge is needed to be successful with Jenkins X
   - need to explain and document our CRDs, fundamental concepts and building blocks
   - To keep v2 docs less visible - Antora - documentation system which supports multiple versions
-
-
-
-
