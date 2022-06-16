@@ -4,7 +4,7 @@
 ## Initial Bootstrap Committee
 
 The Initial bootstrap committee had to be replaced by a new bootstrap committee.
-This bootstrap committee should be replaced by an elected Jenkins X steering committee in the future.
+This bootstrap committee should be replaced by an elected Jenkins X TOC in the future.
 
 ### Current Members
 
@@ -56,11 +56,11 @@ Link to New Committee Notes will be added after our first meeting.
 
 ### Initial Charter
 
-This document will define how the committee is to manage the project until it has transitioned to an elected steering committee, as well as what governance must be in place. 
+This document will define how the committee is to manage the project until it has transitioned to an elected TOC, as well as what governance must be in place. 
 
 A charter should cover all of the following topics:
-* Scope of rights and responsibilities explicitly held by the steering committee
-* Steering committee structure
+* Scope of rights and responsibilities explicitly held by the TOC
+* TOC structure
 * Committee decision-making process, including for changes to the charter
 * How are meetings conducted
    * Frequency and duration
@@ -76,12 +76,12 @@ A charter should cover all of the following topics:
  
  ### Transition Process
  
- This document will define how the bootstrap steering committe will transition to an elected steering committee.
+ This document will define how the bootstrap steering committe will transition to an elected TOC.
  
  The transition process must:
  * Organize, execute, and validate an election for replacing bootstrap members 
- * Define the term lengths for elected steering committee members
- * Organize the transition to an elected steering committee so that not all members change out at once
+ * Define the term lengths for elected TOC members
+ * Organize the transition to an elected TOC so that not all members change out at once
   * Possibly stagger the terms of the bootstrap committee members (ie, the first election would be for 3 committee members, the next election would be held to replace the remaining 2 original bootstrap committee members)
  * Provide documentation to enable the established practices of the committee to continue 
 
