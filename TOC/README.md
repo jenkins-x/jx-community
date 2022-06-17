@@ -54,7 +54,7 @@ This document will define how the committee is to manage the project until it ha
 A charter should cover all of the following topics:
 * Scope of rights and responsibilities explicitly held by the TOC
 * TOC structure
-* Committee decision-making process, including for changes to the charter
+* Committee decision-making process, including changes to the charter
 * How are meetings conducted
    * Frequency and duration
    * How is meeting information shared
