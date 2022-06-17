@@ -9,7 +9,7 @@ This bootstrap committee should be replaced by an elected Jenkins X TOC in the f
 
 | Name | Profile | Affiliation |
 | ---- | ------- | ----------- |
-| Ankit Muhaptra | [@ankitm123](https://github.com/ankitm123) |  Berkshire Grey |
+| Ankit Mohapatra | [@ankitm123](https://github.com/ankitm123) |  Berkshire Grey |
 | Christoffer Vig | [@babadofar](https://github.com/babadofar) | CoWork.no |
 | James Rawlings | [@rawlingsj](https://github.com/rawlingsj) | VMware |
 | Mårten Svantesson | [@msvticket](https://github.com/msvticket) | Ticket.se |
@@ -66,14 +66,3 @@ A charter should cover all of the following topics:
    * Special elections in the case someone resigns or is impeached
    * Voter registration and requirements
    * Committee company representation quotas
- 
- ### Transition Process
- 
- This document will define how the bootstrap steering committe will transition to an elected TOC.
- 
- The transition process must:
- * Organize, execute, and validate an election for replacing bootstrap members 
- * Define the term lengths for elected TOC members
- * Organize the transition to an elected TOC so that not all members change out at once
-  * Possibly stagger the terms of the bootstrap committee members (ie, the first election would be for 3 committee members, the next election would be held to replace the remaining 2 original bootstrap committee members)
- * Provide documentation to enable the established practices of the committee to continue 
