@@ -11,7 +11,6 @@ This bootstrap committee should be replaced by an elected Jenkins X TOC in the f
 | ---- | ------- | ----------- |
 | Ankit Mohapatra | [@ankitm123](https://github.com/ankitm123) |  Berkshire Grey |
 | Christoffer Vig | [@babadofar](https://github.com/babadofar) | CoWork.no |
-| James Rawlings | [@rawlingsj](https://github.com/rawlingsj) | VMware |
 | Mårten Svantesson | [@msvticket](https://github.com/msvticket) | Ticket Leisure Travel |
 | Tom Hobson | [@tomhobson](https://github.com/tomhobson) | MQube |
 
