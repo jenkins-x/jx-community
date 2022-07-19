@@ -41,7 +41,7 @@ The TOC should
 ### Schedule and Cadence
 Biweekly meeting, anyone can join
 
-[Previous Committee Meeting notes](https://docs.google.com/document/d/1ZuMQxm4mYJP1x2vhZI6CgCxiLWWw6N6Um1bErKP1seE/edit#).
+[Previous Committee Meeting notes](meeting-notes/).
 
 Link to New Committee Notes will be added after our first meeting.
 
