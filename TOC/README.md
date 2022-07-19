@@ -58,7 +58,7 @@ A charter should cover all of the following topics:
 * How are meetings conducted
    * Frequency and duration
    * How is meeting information shared
-   * How is work tracked (eg, steering project board)
+   * How is work tracked (eg, project board)
    * Member note taker, or a neutral facilitator role that exists outside of the committee
 * Election process, including:
    * Who is eligible to run as a candidate
