@@ -21,3 +21,4 @@
     https://github.com/tektoncd/community/tree/main/election
 - Handling multirepo changes
 - Propagation of change logs
+- Detecting new cluster [#876](https://github.com/jenkins-x-plugins/jx-gitops/pull/876)
