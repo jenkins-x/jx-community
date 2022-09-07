@@ -1,68 +1,63 @@
 # Technical Oversight Committee (TOC)
 
-## Initial Bootstrap Committee
+## Chair ##
 
-The Initial bootstrap committee had to be replaced by a new bootstrap committee.
-This bootstrap committee should be replaced by an elected Jenkins X TOC in the future.
+Current chair is Mårten Svantesson [@msvticket](https://github.com/msvticket), elected in July 6:th 2022.
 
-### Current Members
+## Current Members ##
 
-| Name | Profile | Affiliation |
-| ---- | ------- | ----------- |
-| Ankit Mohapatra | [@ankitm123](https://github.com/ankitm123) |  Berkshire Grey |
-| Christoffer Vig | [@babadofar](https://github.com/babadofar) | CoWork.no |
-| Mårten Svantesson | [@msvticket](https://github.com/msvticket) | Ticket Leisure Travel |
-| Tom Hobson | [@tomhobson](https://github.com/tomhobson) | MQube |
+| Name              | Profile                                          | Affiliation           |
+| ----              | -------                                          | -----------           |
+| Mårten Svantesson | [@msvticket](https://github.com/msvticket)       | Ticket Leisure Travel |
+| Ankit Mohapatra   | [@ankitm123](https://github.com/ankitm123)       | Berkshire Grey        |
+| Christoffer Vig   | [@babadofar](https://github.com/babadofar)       | CoWork.no             |
+| Tom Hobson        | [@tomhobson](https://github.com/tomhobson)       | MQube                 |
+| Osama Magdy       | [@osamamagdy](https://github.com/osamamagdy)     | Cairo University      |
+| Rajat Gupta       | [@rajatgupta24](https://github.com/rajatgupta24) |                       |
 
 
-#### Former Members
+## Former Members ##
 
-| Name | Profile | Affiliation |
-| ---- | ------- | ----------- |
-| James Strachan | [@jstrachan](https://github.com/jstrachan) | CloudBees |
-| James Rawlings | [@rawlingsj](https://github.com/rawlingsj) | VMware |
-| Craig Barber | [@craigdbarber](https://github.com/craigdbarber) | Google |
-| Pete Muir | [@pmuir](https://github.com/pmuir) | CloudBees |
-| Mauricio Salatino | [@salaboy](https://github.com/Salaboy) | Camunda/LearnK8s |
-
-## Initial Tasks for the TOC
-These tasks were discussed during the Jenkins X Community Summit in Austin, June 9 2022
-The TOC should 
-- Coordinate with [CDF TOC](https://github.com/cdfoundation/toc), and pick a representative to the CDF TOC
-- Pick maintainers from regular contributors, using some predefined rules  and regulations
-- Handle costs and budgets - Do we need a finance team for this in the future?
-- Elect chairman and referee for the TOC (use bot for random selection each time?)
-- Set up LF open collective if someone wants to donate to Jenkins X maintainers
-- Should have Maintainers + representatives from the end user community
-- The TOC needs to handle all points listed under the "Initial charter" section below
+| Name              | Profile                                          | Affiliation      |
+| ----              | -------                                          | -----------      |
+| James Strachan    | [@jstrachan](https://github.com/jstrachan)       | CloudBees        |
+| James Rawlings    | [@rawlingsj](https://github.com/rawlingsj)       | VMware           |
+| Craig Barber      | [@craigdbarber](https://github.com/craigdbarber) | Google           |
+| Pete Muir         | [@pmuir](https://github.com/pmuir)               | CloudBees        |
+| Mauricio Salatino | [@salaboy](https://github.com/Salaboy)           | Camunda/LearnK8s |
  
 ## Meetings
 
-### Schedule and Cadence
-Biweekly meeting, anyone can join
+Meetings are normally held over Zoom every second Wednesdays at 15:00 UTC, anyone can join. The meetings are announed at least in the [Jenkins-X meeting calendar](https://calendar.google.com/calendar/embed?src=r6q89ou3270q1epgbr6ujj2814%40group.calendar.google.com).
 
 [Previous Committee Meeting notes](https://docs.google.com/document/d/1ZuMQxm4mYJP1x2vhZI6CgCxiLWWw6N6Um1bErKP1seE/edit#).
 
 [Committee Meeting notes](meeting-notes).
 
+
+## Action items
+
+The action items of the TOC are tracked in [Action items](https://github.com/orgs/jenkins-x/projects/21/).
+
+## Election ##
+
+- Candidates are nominated by making a PR in the jx-community repo with addition of the nominee as a member in the TOC/README.md file. The PR should be assigned to the current TOC chair.
+- The TOC decides in a meeting whether a nominee is accepted and thus the PR is merged
+- When making the decision the TOC should consider whether the candidate is
+  - A contributor
+  - Active in issues
+  - Active in slack
+  - Have done other community effort
+- The chair of the TOC is elected by the TOC
+- The term for the chair is 6 months
+
+## Responsibilities ##
+
+- Coordinate with [CDF TOC](https://github.com/cdfoundation/toc), and pick a representative to the CDF TOC
+- Pick maintainers from regular contributors, using some predefined rules and regulations
+- Handle costs and budgets
+- Decide on routines and processes within the Jenkins-X project
+
 ## Projects
 
-### Initial Charter
-
-This document will define how the committee is to manage the project until it has transitioned to an elected TOC, as well as what governance must be in place. 
-
-A charter should cover all of the following topics:
-* Scope of rights and responsibilities explicitly held by the TOC
-* TOC structure
-* Committee decision-making process, including changes to the charter
-* How are meetings conducted
-   * Frequency and duration
-   * How is meeting information shared
-   * How is work tracked (eg, project board)
-   * Member note taker, or a neutral facilitator role that exists outside of the committee
-* Election process, including:
-   * Who is eligible to run as a candidate
-   * How candidates are nominated
-   * Special elections in the case someone resigns or is impeached
-   * Voter registration and requirements
-   * Committee company representation quotas
+### Making Jenkins-X graduate as a project in cdFoundation
