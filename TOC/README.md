@@ -2,7 +2,7 @@
 
 ## Chair ##
 
-Current chair is Mårten Svantesson [@msvticket](https://github.com/msvticket), elected in July 6:th 2022.
+Current chair is Mårten Svantesson [@msvticket](https://github.com/msvticket), elected in July 6th 2022.
 
 ## Current Members ##
 
