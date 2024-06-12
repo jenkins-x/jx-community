@@ -6,25 +6,26 @@ Current chair is Mårten Svantesson [@msvticket](https://github.com/msvticket), 
 
 ## Current Members ##
 
-| Name              | Profile                                          | Affiliation           |
-| ----              | -------                                          | -----------           |
-| Mårten Svantesson | [@msvticket](https://github.com/msvticket)       | Ticket Leisure Travel |
-| Ankit Mohapatra   | [@ankitm123](https://github.com/ankitm123)       | Berkshire Grey        |
-| Christoffer Vig   | [@babadofar](https://github.com/babadofar)       | CoWork.no             |
-| Tom Hobson        | [@tomhobson](https://github.com/tomhobson)       | MQube                 |
-| Osama Magdy       | [@osamamagdy](https://github.com/osamamagdy)     | Cairo University      |
-| Rajat Gupta       | [@rajatgupta24](https://github.com/rajatgupta24) |                       |
+| Name              | Profile                                              | Affiliation           |
+| ----              | -------                                              | -----------           |
+| Mårten Svantesson | [@msvticket](https://github.com/msvticket)           | Ticket Leisure Travel |
+| Tom Hobson        | [@tomhobson](https://github.com/tomhobson)           | MQube                 |
+| Jordan Goasdoué   | [@JordanGoasdoue](https://github.com/JordanGoasdoue) | Dailymotion           |
 
 
 ## Former Members ##
 
-| Name              | Profile                                          | Affiliation      |
-| ----              | -------                                          | -----------      |
-| James Strachan    | [@jstrachan](https://github.com/jstrachan)       | CloudBees        |
-| James Rawlings    | [@rawlingsj](https://github.com/rawlingsj)       | VMware           |
-| Craig Barber      | [@craigdbarber](https://github.com/craigdbarber) | Google           |
-| Pete Muir         | [@pmuir](https://github.com/pmuir)               | CloudBees        |
-| Mauricio Salatino | [@salaboy](https://github.com/Salaboy)           | Camunda/LearnK8s |
+| Name              | Profile                                              | Affiliation           |
+| ----              | -------                                              | -----------           |
+| James Strachan    | [@jstrachan](https://github.com/jstrachan)           | CloudBees             |
+| James Rawlings    | [@rawlingsj](https://github.com/rawlingsj)           | VMware                |
+| Craig Barber      | [@craigdbarber](https://github.com/craigdbarber)     | Google                |
+| Pete Muir         | [@pmuir](https://github.com/pmuir)                   | CloudBees             |
+| Mauricio Salatino | [@salaboy](https://github.com/Salaboy)               | Camunda/LearnK8s      |
+| Ankit Mohapatra   | [@ankitm123](https://github.com/ankitm123)           | Berkshire Grey        |
+| Christoffer Vig   | [@babadofar](https://github.com/babadofar)           | CoWork.no             |
+| Osama Magdy       | [@osamamagdy](https://github.com/osamamagdy)         | Cairo University      |
+| Rajat Gupta       | [@rajatgupta24](https://github.com/rajatgupta24)     |                       |
  
 ## Meetings
 
