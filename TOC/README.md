@@ -2,7 +2,7 @@
 
 ## Chair ##
 
-Current chair is Mårten Svantesson [@msvticket](https://github.com/msvticket), elected in July 6th 2022.
+Current chair is Mårten Svantesson [@msvticket](https://github.com/msvticket), reelected in July 7th 2024.
 
 ## Current Members ##
 
@@ -57,7 +57,7 @@ The action items of the TOC are tracked in [Action items](https://github.com/org
 - Coordinate with [CDF TOC](https://github.com/cdfoundation/toc), and pick a representative to the CDF TOC
 - Pick maintainers from regular contributors, using some predefined rules and regulations
 - Handle costs and budgets
-- Decide on routines and processes within the Jenkins-X project
+- Decide on routines and processes within the Jenkins X project
 
 ## Projects
 
