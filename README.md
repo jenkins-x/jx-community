@@ -2,7 +2,7 @@
 
 We value respect and inclusiveness and follow the [CDF Code of Conduct](https://jenkins-x.io/community/code_of_conduct/) in all interactions.
 
-Join us on [Slack](https://jenkins-x.io/community/#slack), [Discourse](https://jenkinsx.discourse.group/), and during [Office Hours](https://jenkins-x.io/community/#office-hours) to ask questions and tell us what you are building.
+Join us on [Slack](https://jenkins-x.io/community/#slack), and during [Office Hours](https://jenkins-x.io/community/#office-hours) to ask questions and tell us what you are building.
 Upcoming events are shown on our [Event Calendar](https://jenkins-x.io/community/calendar/) or announced on [Twitter](https://twitter.com/jenkinsxio).
 
 This repo contains information on joining and contributing to the Jenkins X community - improving docs, improving code, collaborating etc.
@@ -22,10 +22,6 @@ Talk to us on our slack channels, which are part of the Kubernetes slack. Join K
 ### Office Hours
 
 Find out more about our bi-weekly Office Hours, where we discuss all things Jenkins X, and other events [here](https://jenkins-x.io/community/).
-
-### Discourse
-
-Ask questions about Jenkins X or post topics for discussion in [our Discourse forum](https://jenkinsx.discourse.group/). Join the [Jenkins X Discourse](https://jenkinsx.discourse.group/) forum to read answers to commonly asked questions and post additional questions.
 
 ## Contributing
 
