@@ -4,7 +4,14 @@ There are defaults in our projects that for backward compability reasons hide go
 users. Here we list these so that we can do the changes when changing the major version or maybe
 when we change the project name.
 
-## Switch from kuectl apply as the default reconciliation method
+## Switch from kubectl apply as the default reconciliation method
+
+In principle I think you could make kubectl apply --prune work properly with ApplySets. But it still
+in alpha and would currently require some legwork to get it to work cluster wide.
+
+https://kubernetes.io/blog/2023/05/09/introducing-kubectl-applyset-pruning/
+
+https://github.com/kubernetes/enhancements/issues/3659#issuecomment-1542965531
 
 It should be hassle free to witch to kpt live apply. A reason not to do this is that the kpt project
 seem dead. If we could make switching to kapp hassle free that might be a better option. When I
@@ -23,3 +30,5 @@ https://github.com/carvel-dev/kapp/issues/214
 ## Let reusePullRequest be the default in jx-updatebot
 
 This also demands defaults for the label used to identify PRs.
+
+## Remove support for jenkins as a pipeline runner
