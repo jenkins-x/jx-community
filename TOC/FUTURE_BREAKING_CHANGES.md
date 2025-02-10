@@ -32,3 +32,7 @@ https://github.com/carvel-dev/kapp/issues/214
 This also demands defaults for the label used to identify PRs.
 
 ## Remove support for jenkins as a pipeline runner
+
+## Upgrade jx-api to v4 from v4beta1
+
+Remove fields marked as deprecated
