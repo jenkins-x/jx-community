@@ -49,3 +49,5 @@ This also demands defaults for the label used to identify PRs.
 Remove fields marked as deprecated
 
 ## Make sparse checkout default
+
+## Make not executing pipelines for drafts default
